@@ -1,0 +1,75 @@
+[FA],Ordered Checklist,Unordered Checklist,Petri Net,Coloured Petri Net,Flowchart,BPMN 2.0,IDEF0,IDEF3,YAWL,EPC,UML Activity Diagram,UML Use Case Diagram,UML State (Transition) Diagram,RAD,DFD,VSM (Value Stream Mapping),Gantt Chart,BPEL (2.0),BPML,EEML,ER/ERD,UML Sequence Diagram,UML Communication Diagram
+Communication,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1,0,1,0,0,1,1,1,1
+Analysis,0,0,1,1,1,1,1,0,1,1,1,0,0,1,0,1,0,0,0,1,0,0,0
+Enaction,1,1,1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,1,1,0,0,0,0
+Control,0,0,1,1,1,1,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0
+Functional,1,1,1,1,1,1,1,0,1,1,1,0,0,0,1,1,1,0,0,1,0,0,0
+Dynamic/behavioural,1,0,1,1,0,1,0,1,0,1,1,0,1,1,0,0,0,1,1,0,0,1,1
+Informational/resource,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0
+Organizational,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0
+General-purpose ML,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,0,0,1,1,1,0,0,0
+Textual,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0
+Graphical/Diagrammical,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1
+Tabular,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Mathematical,0,0,1,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Imperative,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Declarative,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Control flow/Sequence,1,0,1,1,1,1,0,1,1,1,1,0,0,1,0,0,1,1,1,1,0,1,0
+Information flow/Message flow,0,0,1,1,0,1,1,0,1,0,1,1,0,1,1,1,0,1,1,1,0,1,1
+Data flow,0,0,1,1,0,1,1,1,1,1,0,1,1,1,1,0,0,1,0,0,0,1,0
+Inclusive choice (OR),0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+Exclusive choice (XOR),0,0,1,1,1,1,0,1,1,1,1,1,1,1,0,0,0,1,1,1,0,1,0
+Parallelism (AND),0,0,1,1,0,1,0,1,1,1,1,0,1,1,0,0,0,1,1,1,0,1,0
+Input,0,0,1,1,1,1,1,0,0,1,1,0,0,0,1,0,0,1,1,1,0,0,0
+Output,0,0,1,1,1,1,1,0,0,1,1,0,0,0,1,0,0,1,1,1,0,0,0
+External entities,0,0,0,0,0,1,0,0,0,1,1,1,0,0,1,1,0,1,0,1,0,0,0
+Agent (Roles/Entities),0,0,0,0,0,1,0,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1
+Duration,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0
+Deadline,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+Business rules,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0
+Business goals,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+Annotation,1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,1,0
+Task/Activity,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,0,1,0
+Event/Trigger,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,0,1,0,0,0,0,0
+Mappability,0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0
+Standardized file format,0,0,1,1,0,1,0,0,1,0,1,1,1,0,0,0,0,1,1,0,0,1,1
+PNML,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+XSD (XML Schema Definition),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+XMI (XML Metadata Interchange),0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1
+Yawl-XML,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EPML,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+XML,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,0,0,1,1,0,0,1,1
+Execution Engine availability,0,0,1,1,1,1,0,1,1,1,1,0,1,0,0,0,0,1,0,0,0,1,1
+Simulation support,0,0,1,1,0,1,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0
+Verification support,0,0,1,1,0,1,1,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+True concurrency,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+System Interpretation,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Decomposition,0,0,0,0,0,1,1,1,1,0,0,0,1,0,1,0,0,1,1,1,0,0,0
+High-level support,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,1,0,0,0,1,1,0,1
+Low-level support,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,0,1,0
+State-based,0,0,1,1,0,0,1,1,1,0,0,1,1,1,1,1,0,0,0,1,1,0,0
+Activity-based,1,1,0,0,1,1,0,1,1,1,1,0,0,1,0,0,1,1,1,0,0,1,1
+Novice,1,1,0,0,1,1,0,0,0,1,1,1,0,0,1,1,1,0,0,0,0,0,1
+Expert,0,0,1,1,0,1,1,1,1,0,1,0,1,1,1,0,0,1,1,1,1,1,0
+Graphical economy,0,0,0.33,0.33,0.66,0.33,0.33,0.66,0.99,0.66,0.99,0.33,0.99,0.66,0.33,0.99,0.66,0,0,0.99,0,0.99,0.33
+Perceptual discriminatibility,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Semantic transparency,0.33,0.33,0.99,0.99,0.33,0.99,0.99,0.99,0.99,0.33,0.66,0.66,0.66,0.99,0.33,0.33,0.33,0.99,0.99,0.99,0.99,0.33,0.66
+Visual emphasis: colour,0,0,0.99,0.99,0.99,0.66,0.99,0.66,0.99,0.99,0.66,0.99,0.99,0.33,0.99,0.99,0.33,0,0,0.33,0,0.33,0.99
+Formality,0,0,0.99,0.99,0.99,0.66,0.99,0.33,0.99,0.99,0.99,0.99,0.99,0.33,0.99,0.99,0.99,0,0,0.66,0,0.66,0.33
+Organizational body,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,1,1
+Conformity to standard,0,0,1,1,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1
+Evolutionary,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,1,1
+Theoretical foundation,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Documentation availability,0,0,1,1,1,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0,1,1,1
+Active community,0,0,1,1,1,1,0,0,1,0,1,1,1,0,0,1,1,1,0,0,1,1,1
+HR availability,0,0,0.33,0.33,0.99,0.99,0.66,0.33,0.33,0.33,0.99,0.66,0.66,0.33,0.33,0.33,0.66,0.66,0.66,0,0.33,0.66,0.66
+Training material availability (degree),0.66,0.66,0.99,0.99,0.99,0.99,0.66,0.33,0.99,0.99,0.99,0.99,0.99,0.33,0.99,0.99,0.66,0.99,0.33,0,0.99,0.99,0.66
+YouTube availability,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,0,1,1,1
+Course availability,0,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,1,0,0,1,1,0
+Blog availability,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1
+Degree of Popularity,0,0,0.99,0.66,0.99,0.99,0.33,0.33,0.33,0.66,0.99,0.66,0.66,0.99,0.66,0.33,0,0.66,0.33,0,0.33,0.66,0.66
+tool availability,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.66,0.66,0.99,0.99,0.99,0.99,0.33,0.99,0.99,0.99,0.99,0.33,0.33,0.99,0.99,0.99
+free tools availability,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1
+open-source tools availability,1,1,1,1,1,1,0,0,1,0,1,1,1,0,1,0,1,1,1,0,1,1,1
+[URL],https://dss-mcdm.com/,https://dss-mcdm.com/,https://www.informatik.uni-hamburg.de/TGI/PetriNets/index.php,https://www.sciencedirect.com/topics/computer-science/colored-petri-net,https://dss-mcdm.com/,https://www.omg.org/spec/BPMN/2.0/About-BPMN/,https://www.idef.com/idefo-function_modeling_method/,https://www.idef.com/idef3-process-description-capture-method/,https://yawlfoundation.github.io/,https://dss-mcdm.com/,https://omg.org/spec/UML/2.5.1/About-UML/,https://omg.org/spec/UML/2.5.1/About-UML/,https://omg.org/spec/UML/2.5.1/About-UML/,https://dss-mcdm.com/,https://dss-mcdm.com/,https://dss-mcdm.com/,https://dss-mcdm.com/,http://bpel.xml.org/,https://www.omg.org/bpmn/Documents/BPML-2003.pdf,https://dss-mcdm.com/,https://dss-mcdm.com/,https://omg.org/spec/UML/2.5.1/About-UML/,https://dss-mcdm.com/
+

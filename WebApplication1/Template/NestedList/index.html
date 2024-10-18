@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" crossorigin="anonymous"></script>
+  <script src="dist/jquery-simple-tree-table.js"></script>
+  <link rel="stylesheet" href="dist/jquery-simple-tree-table.css" />
+</head>
+<body>
+  <h1>Basic Table</h1>
+  <button type="button" id="expander">expand</button>
+  <button type="button" id="collapser">collapse</button>
+  <table id="basic" border="1">
+    <tr data-node-id="1">
+      <td>1</td>
+      <td>text of 1</td>
+    </tr>
+    <tr data-node-id="1.1" data-node-pid="1">
+      <td>1.1</td>
+      <td>text of 1.1</td>
+    </tr>
+    <tr data-node-id="1.1.1" data-node-pid="1.1">
+      <td>1.1.1</td>
+      <td>text of 1.1.1</td>
+    </tr>
+    <tr data-node-id="1.1.2" data-node-pid="1.1">
+      <td>1.1.2</td>
+      <td>text of 1.1.2</td>
+    </tr>
+    <tr data-node-id="1.2" data-node-pid="1">
+      <td>1.2</td>
+      <td>text of 1.2</td>
+    </tr>
+    <tr data-node-id="1.2.1" data-node-pid="1.2">
+      <td>1.2.1</td>
+      <td>text of 1.2.1</td>
+    </tr>
+    <tr data-node-id="1.2.2" data-node-pid="1.2">
+      <td>1.2.2</td>
+      <td>text of 1.2.2</td>
+    </tr>
+    <tr data-node-id="2">
+      <td>2</td>
+      <td>text of 2</td>
+    </tr>
+    <tr data-node-id="2.1" data-node-pid="2">
+      <td>2.1</td>
+      <td>text of 2.1</td>
+    </tr>
+    <tr data-node-id="2.2" data-node-pid="2">
+      <td>2.2</td>
+      <td>text of 2.2</td>
+    </tr>
+  </table>
+  <script>
+  $('#basic').simpleTreeTable({
+    expander: $('#expander'),
+    collapser: $('#collapser'),
+    storeState: true
+  });
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,81 @@
+[Grouping],Order,UpperLevel
+Political decentralization?,Decentralization Types,NULL
+Logical decentralization,Decentralization Types,NULL
+Direct DAO Governance,Governance,NULL
+Representative DAO Governance,Governance,NULL
+Liquid DAO Governance,Governance,NULL
+Quadratic voting,Voting Mechanism,NULL
+Conviction voting,Voting Mechanism,NULL
+Reputation-based voting,Voting Mechanism,NULL
+Token-weighted Voting,Voting Mechanism,NULL
+Token-based voting,Voting Mechanism,NULL
+TCR Based Voting,Voting Mechanism,NULL
+Delegable Voting,Voting Mechanism,NULL
+Lazy consensus,Voting Mechanism,NULL
+On-Chain Resources,Resource Management,NULL
+Upgradeable contract,Resource Management,On-Chain Resources
+Off-Chain Resources,Resource Management,NULL
+Natural person,Resource Management,Off-Chain Resources
+Legal Entity,Resource Management,Off-Chain Resources
+Smart contracts,Autonomy (Self-governance),NULL
+Arbitrary transactions,Autonomy (Self-governance),NULL
+Rage Quit,Autonomy (Self-governance),NULL
+Shared Resource,DAO Design Specification,NULL
+Funds,DAO Design Specification,NULL
+Physical Asset,DAO Design Specification,NULL
+Registry,DAO Design Specification,NULL
+Intellectual Property,DAO Design Specification,NULL
+Proposals,DAO Design Specification,NULL
+Research & Development,DAO Design Specification,NULL
+Service contracts,DAO Design Specification,NULL
+Professional services,DAO Design Specification,NULL
+Content or registry curation,DAO Design Specification,NULL
+Reputation,DAO Design Specification,NULL
+Meetups,DAO Design Specification,NULL
+Reward-for-work proposals,DAO Design Specification,NULL
+Structure-changing proposals,DAO Design Specification,NULL
+Funding Queues,DAO Design Specification,NULL
+Manual Reputation Flow,Reputation system,NULL
+Automatic Reputation Flow,Reputation system,NULL
+Token distribution,DAO Application,NULL
+Funds allocation,DAO Application,NULL
+Reputation assignment,DAO Application,NULL
+Collective data curation,DAO Application,NULL
+External activity,DAO Application,NULL
+Governance upgrade,DAO Application,NULL
+Inflation Funding,DAO Application,NULL
+Security Token Offering (STO),Fundraising,NULL
+Utility Token Offering (UTO),Fundraising,NULL
+Initial coin Offering (ICO),Fundraising,NULL
+Revenue Sharing,Fundraising,NULL
+Budget Box,Fundraising,NULL
+On-chain,Discussion & Negotiation Type,NULL
+Off-chain,Discussion & Negotiation Type,NULL
+Linked discretionary,Discussion & Negotiation Type,NULL
+Authorization (Voting Right),DAO Member Management,NULL
+Membership management,DAO Member Management,NULL
+Authentication/Identification,DAO Member Management,NULL
+Permissionless,DAO Member Management,NULL
+Legally proper KYC,DAO Member Management,NULL
+Independent Platform,Architecture,NULL
+Extension,Architecture,NULL
+Onchain tools,Toolkit,NULL
+Offchain tools,Toolkit,NULL
+Extensibility,Toolkit,NULL
+Transparency portal,Toolkit,NULL
+Legal framework,Toolkit,NULL
+Domains,Toolkit,NULL
+Recovery,General Feautures,NULL
+Multiple payment types,General Feautures,NULL
+Analytics Dashboard,General Feautures,NULL
+IPFS,Decentralized Storage Systems,NULL
+Storj,Decentralized Storage Systems,NULL
+Ethereum Swarm,Decentralized Storage Systems,NULL
+Ethereum,Infrastructure (Network),NULL
+RSK,Infrastructure (Network),NULL
+xDai,Infrastructure (Network),NULL
+Popularity ,Qualitative Aspect,NULL
+Maturity level,Qualitative Aspect,NULL
+Developer Resources (People),Qualitative Aspect,NULL
+Upgradability,Qualitative Aspect,NULL
+Scalability,Qualitative Aspect,NULL

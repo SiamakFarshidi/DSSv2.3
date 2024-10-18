@@ -1,0 +1,73 @@
+[SF],Quality-Expressiveness,Quality-Arbitrariness,Quality-Formality,Quality-Suitability,Quality-Understandability,Quality-Completeness,Quality-Efficiency,Quality-Effectiveness (scope),Quality-Complexity,Quality-Ease of Use,Quality-Flexibility/Modularity,Quality-Portability/Compatability,Quality-Tool support,Quality-Learnability,Quality-Maturity,Quality-Enactability,Quality-Innovation Inducer,Quality-Reusability,Quality-(Implementation)Cost,Quality-Scalability,Quality-Adaptability,Quality-Replaceability,Quality-Granularity,Quality-Support,Quality-Positioning and Strength,[Description]
+Communication,1,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,Whether the technique facilitates understanding- communicating or describing a process
+Analysis,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,Whether the technique facilitates the analyzing (and improving) of a process
+Enaction,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,Whether the technique facilitates the execution of a process- and/or is generally used with the aim of creating executable models
+Control,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Whether the technique facilitates the and/or is generally used for the managing and monitoring of a process
+Functional,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,What process elements / Functional dependencies between process elements (activities- subprocesses- etcetera)
+Dynamic/behavioural,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,When and how activities are performed
+Informational/resource,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,Data (entities) produced or manipulated by a process- and their relationships. In other words- the structure of informational entities
+Organizational,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Where and by whom activities are performed- both functionally and physically.
+General-purpose ML,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1,0,0,1,1,0,0,0,Language is designed to be used for modeling the widest variety of application domains
+Textual,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,The language notation is textual
+Graphical/Diagrammical,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,The language notation is graphical
+Tabular,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Textual but with predefined tabular structure (often for natural language description of processes).
+Mathematical,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Graphical highly formal semtantics based on formal logic. Modeling requires knowledge about math and/or logic.
+Imperative,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Whether the language allows for for imperative modeling: Procedural. Processes with a clear start and clear end (state). E.g. workflows.
+Declarative,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Whether the language allows for declarative modeling: Knowledge intensive- no clear start to end and many variatons possible (variations not all known in advance). For declarative approaches you define the boundaries and anything within the boundaries is possible.
+Control flow/Sequence,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Whether the language allows for the modeling of an order in which tasks are to be executed. In other words- whether the language includes a concept of time
+Information flow/Message flow,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Whether the messages and their flow can be modeled
+Data flow,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Whether the language explicitly allows for the modeling of the flow of data
+Inclusive choice (OR),1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Whether the language contains the OR construct
+Exclusive choice (XOR),1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Whether the language contains the XOR construct
+Parallelism (AND),1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Whether the language contains the AND construct- e.g. Flowchart does not have this
+Input,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Whether the language allows for the modeling process input. Typically- these are resources referenced and/or consumed by activities/tasks/functions
+Output,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Whether the language allows for the modeling of deliverables or output- e.g. the creation of a document
+External entities,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Whether the language allows for the explicit modeling of external entities that perform a certain process element
+Agent (Roles/Entities),1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Whether the language allows for the explicit modeling of actors- roles and organizational units that perform a certain process element. An entity is a definable thing- such as a person object concept or event- that can have data stored about it
+Duration,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Whether there is a construct to depict duration- represent a time span- the passage of time- or a specific point in time (e.g. a day of the week)
+Deadline,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Whether there is a construct to depict the time period within activities or tasks have to be carried out
+Business rules,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Whether language allows for the modeling of business rules
+Business goals,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Whether language allows for the explicit modeling of business goals (note: a final state is not considered a process goal for this feature)
+Annotation,1,1,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Whether language allows for textual annotation in addition the graphical representation of a process. Textual annotation can be used to provide additional details about a process element- that otherwise could not be depicted.
+Task/Activity,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,"Whether the language has a ""task"" or ""activity"" construct "
+Event/Trigger,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,"Whether the language has an ""event"" construct. An event is an occurance that takes place at a specific point in time- and that is capable of inducing some behaviour (e.g. acitivity or process)"
+Mappability,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,Whether the language has a formal specification for mapping to an Executable Business Process (Modeling) Language
+Standardized file format,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,1,0,0,1,0,0,1,Whether the language has a standard file format specified
+PNML,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Petri Net Markup Language- XML-based interchange format for Petri Net files
+XSD (XML Schema Definition),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Defines what elements and attributes may appear in XML document
+XMI (XML Metadata Interchange),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,File format used to store model design information in standard XML format
+Yawl-XML,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,YAWL-XML- file format specifically used for yawl files
+EPML,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,EPC Markup Language- neutral interchange format that facilitates interchange of EPC business process models
+XML,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Extensible Markup Language: a set of codes or tags that describes the text in a digital document. More broad than XSD and XMI
+Execution Engine availability,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,Whether there are any Execution Engines available that support the (automatic) simulation of the models of a given language
+Simulation support,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Whether the language allows for simulation (enaction of the model)
+Verification support,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Whether the language allows for qualitative analysis- e.g. The detecting of deadlocks- races- etcetera
+True concurrency,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Whether the language allows for true-parallelism- explicitly representing steps that can be performed by different workers.
+System Interpretation,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Whether the output model of the language is to be used or interpreted by systems
+Decomposition,1,1,0,0,1,1,1,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,Whether the language allows for decomposition / process nesting
+High-level support,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Whether the language allows for high-level modeling (top-down approach)
+Low-level support,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Whether the language allows for low-level modeling (bottom-up approach) with detailed descriptions of atomic activities
+State-based,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Whether the modeling language allows for modeling of state-based models
+Activity-based,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Whether the language allows for the modeling of activity/task-based models
+Novice,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Whether the language is generally perceived as being suitable/understandable for/by novice modelers
+Expert,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Whether the language is generally perceived as being suitable/understandable for/by or tailored to experts or well-experienced modelers
+Graphical economy,1,1,0,0,1,0,0,0,1,1,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,The degree of the number of unique graphical symbols the language has (Note: The assumption is made that a higher amount results in lower understandability- but higher expressiveness). Featured not applicable (=0) to textual process modeling languages.
+Perceptual discriminatibility,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Whether the language uses color as additional differentiating factor for the notation of elements
+Semantic transparency,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,The degree of formality: the extend to which a language has well defined semantics and rules to be followed
+Visual emphasis: colour,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,Extent to which symbols are clearly distinguishable- as perceived in literature
+Formality,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,Self describing: extent to which meaning of symbol can be inferred from its appearance- as perceived in literature
+Organizational body,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,1,Whether there is an organization behind the language- actively responsible for version management and development of the language- e.g. OMG
+Conformity to standard,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,1,1,Whether the technique is conform to an ISO standard
+Evolutionary,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Whether new and improved versions have been released over time
+Theoretical foundation,0,0,1,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,The level of theoretical support for the business process modeling technique (i.e. whether its has its foundations in the academic domain)
+Documentation availability,0,0,0,0,1,0,1,0,0,1,0,0,0,1,1,0,1,0,1,0,0,1,0,1,1,Availability of a comprehensive and well-documented manual or language specification
+Active community,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,1,0,0,1,0,1,1,Whether the technique has an active community. An active community is defined as a group of people (modelers) gathered in a place to achieve a common goal (in this case being an online forum or an active research community)
+HR availability,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,Degree of expert availability (*may vary over time)
+Training material availability (degree),0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,1,1,The degree of training material availability
+YouTube availability,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,1,1,Whether there are instructional youtube videos available about the technique (Language: EN)
+Course availability,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,1,1,Whether there are courses available at recognized organizations- e.g. UvA or UU- about the technique
+Blog availability,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,1,1,Whether there are blogs / articles available about the technique
+Degree of Popularity,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,1,1,The degree of popularity of the given technique (3 = very popular)
+tool availability,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,1,1,The degree of tool availability for both free and paid tools combined
+free tools availability,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,0,1,Whether there are any free tools available that support the modeling using a certain technique
+open-source tools availability,0,1,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,0,1,Whether there are any open source tools available that support the modeling using a certain technique

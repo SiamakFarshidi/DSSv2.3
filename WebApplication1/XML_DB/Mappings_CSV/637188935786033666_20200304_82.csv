@@ -1,0 +1,96 @@
+[MoSCoW],Case Study 1
+General-purpose platform,M
+Process app platform,N
+Mobile app platform,N
+Request-handling platform,N
+Model-centric (Low-code),S
+Model only (No-code),S
+Domain Experts,N
+Business Analysts,S
+Professional Developers,N
+Visual IDE,S
+Multi-channel/Cross-platform Application,C
+Programming mandatory,N
+Programming optional,N
+Integration,N
+Cross-Platform Integration,N
+Integrate with an ERP system,N
+data mapping,C
+REST ,M
+SOAP ,M
+OData services,M
+importing data,C
+Deployment,N
+Public Cloud platform,N
+Private Cloud platform,M
+On-premise,N
+ access control,N
+Identity and permissions management,M
+Multi-factor authentication (MFA),N
+OAuth,N
+Single Sign-On (SSO),N
+Data Management,N
+SQL or NoSQL databases,M
+Web API,M
+Service Calls,M
+local application-specific databases,N
+Connectors to various back-ends or services,M
+Real-time Analytics,C
+Report and Analytics,C
+Application lifecycle manager,N
+user stories,N
+Built-in team collaboration,N
+sandbox-to-production phases,N
+component catalogs,N
+Application and portfolio management ,N
+Version control,C
+Administrative controls,N
+Tool set,M
+Form & View,M
+Predefined components,M
+Multilingual Apps,N
+Company-Branded Templates & Styling,M
+Create extensions and widget libraries,S
+Entity-Attribute-Relationship (EAR),M
+Object-Role Modeling (ORM),N
+Computational ontology,S
+Data rules,M
+Process rules,M
+Decision table,S
+Decision tree,S
+Expression editor,N
+Natural language rules,N
+Close to programming language,N
+Programmed,N
+Modeling Tool,N
+Native modeling tool,N
+Web modeling tool,N
+Engine,N
+Generation,N
+Two step generation,N
+Model interpretation,N
+Storage,N
+XML/JSON as data storage,M
+Store model locally,N
+Portability,N
+Convert model to text,N
+Support different stacks,N
+Plug and play architecture,S
+Workflow,N
+Process flow,N
+Case flow,M
+Mobile Apps,C
+Web portals,M
+Web applications,N
+Smartwatch Apps,N
+HIPAA compliant,N
+ISO 27001-2013 certification,N
+SOC 1,N
+SOC 2,N
+SOC 3,N
+PCI DSS,N
+GDPR,N
+popularity in the market,S
+Active Community,C
+Maturity level of the company,M
+Future Roadmap,C

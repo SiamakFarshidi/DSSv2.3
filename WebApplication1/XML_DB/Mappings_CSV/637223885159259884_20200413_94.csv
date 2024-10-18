@@ -1,0 +1,41 @@
+[SF],Functional completeness,Functional correctness,Functional appropriateness,Maturity,Availability,Fault tolerance,Recoverability,Time behavior,Resource utilization,Capacity,Appropriateness recognizability,Learnability,Operability,User error protection,User interface aesthetics,Accessibility,Modularity,Reusability,Analyzability,Modifiability,Testability,Confidentiality,Integrity,Non-repudiation,Accountability,Authenticity,Co-existence,Interoperability,Adaptability,Installability,Replaceability,Organizational structure,Positioning and Strength,Reputation,Services Offered,Support,Licensing Schema,Licensing Costs,Platform Cost,Implementation Cost,Network Cost,Stability,Ownership,Deliverables,Parameterization / Customization,Guarantees,[Description]
+Utrecht centraal,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Utrecht centraal
+Zwolle centraal,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zwolle centraal
+Amsterdam centraal,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Amsterdam centraal
+Rotterdam centraal,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rotterdam centraal
+Less than 300 EUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,Less than 300 EUR
+Less than 500 EUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,Less than 500 EUR
+Less than 700 EUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,Less than 700 EUR
+Less than 1000 EUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,Less than 1000 EUR
+Less than 1200 EUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,Less than 1200 EUR
+Less than 1500 EUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,Less than 1500 EUR
+Less than 2000 EUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,Less than 2000 EUR
+Suitable for students,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Suitable for students
+Suitable only for one person,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Suitable only for one person
+Suitable only for a couple,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Suitable only for a couple
+Suitable only for a a family,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Suitable only for a a family
+Room,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Room
+Studio,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Studio
+Apartment,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Apartment
+Flat,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Flat
+11 to 25 sq meters,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11 to 25 sq meters
+25 to 50 sq meters,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25 to 50 sq meters
+50 to 75 sq meters,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50 to 75 sq meters
+more than 75 sq meters,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,more than 75 sq meters
+Less than 5 years,,,,,,,1,,,,,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Less than 5 years
+Less than 10 years,,,,,,,1,,,,,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Less than 10 years
+Less than 20 years,,,,,,,1,,,,,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Less than 20 years
+Less than 50 years,,,,,,,1,,,,,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Less than 50 years
+Separated bathroom,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Separated bathroom
+Balcony,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Balcony
+Garden,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Garden
+Pet is allowed,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pet is allowed
+Has a parking,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Has a parking
+Near to city center,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Near to city center
+Near to a public bus station,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Near to a public bus station
+Near to a train station,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Near to a train station
+Near to a gym,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Near to a gym
+Near to a church,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Near to a church
+Near to a mosque,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Near to a mosque
+Near to a shopping center,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Near to a shopping center
+Near to a supermarket,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Near to a supermarket

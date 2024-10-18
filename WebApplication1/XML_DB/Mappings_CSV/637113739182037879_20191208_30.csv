@@ -1,0 +1,111 @@
+[Grouping],Order,UpperLevel
+Array programming,Programming paradigms,NULL
+Metaprogramming,Programming paradigms,NULL
+Imperative programming,Programming paradigms,NULL
+Language-oriented programming(LOP),Programming paradigms,NULL
+Object-oriented programming (OOP),Programming paradigms,NULL
+Aspect-Oriented Programming (AOP),Programming paradigms,NULL
+Functional programming,Programming paradigms,NULL
+Dynamic programming,Programming paradigms,NULL
+Procedural programming,Programming paradigms,NULL
+Generic programming,Programming paradigms,NULL
+Reflective programming,Programming paradigms,NULL
+Event-driven programming,Programming paradigms,NULL
+Declarative programming,Programming paradigms,NULL
+Non-structured programming,Programming paradigms,NULL
+Flow-Based Programming (FBP),Programming paradigms,NULL
+Constraint programming,Programming paradigms,NULL
+Data-driven programming,Programming paradigms,NULL
+Probabilistic programming,Programming paradigms,NULL
+Debugger,Development Tools,NULL
+Testing tools,Development Tools,NULL
+GUI builder,Development Tools,NULL
+Profiler,Development Tools,NULL
+Static code analysis,Development Tools,NULL
+Toolchain,Development Tools,NULL
+Code coverage,Development Tools,NULL
+Code refactoring,Development Tools,NULL
+Package Manager,Development Tools,NULL
+ORM,Development Tools,NULL
+Cross platform / Multiplatform (platform-independent),Platforms,NULL
+Windows,Platforms,NULL
+Linux,Platforms,NULL
+macOS,Platforms,NULL
+Docker,Platforms,NULL
+AWS,Platforms,NULL
+Google Cloud Platform,Platforms,NULL
+Microsoft Azure,Platforms,NULL
+IBM Cloud or Watson,Platforms,NULL
+Arduino,Platforms,NULL
+Heroku,Platforms,NULL
+Kubernetes,Platforms,NULL
+Wordpress,Platforms,NULL
+Android,Platforms,NULL
+iOS,Platforms,NULL
+Web-based,Platforms,NULL
+Licensed,Ownership,NULL
+Open source,Ownership,NULL
+Front-end,Development stack,NULL
+Back-end,Development stack,NULL
+Full-stack,Development stack,NULL
+Interpreter,Processor,NULL
+Compiler,Processor,NULL
+Bytecode,Processor,NULL
+General-Purpose PL,Programming Domain,NULL
+Domain-Specific PL,Programming Domain,NULL
+socket programming,Programming Features,NULL
+support threading,Programming Features,NULL
+Software Architecture Patterns,Software Design Decisions,NULL
+Software Architecture Design Patterns,Software Design Decisions,NULL
+Open source compiler / interpreter ,Cost,NULL
+Free implementation of the core libraries,Cost,NULL
+Design and Engineering Software,Application Domain,NULL
+Interactive System,Application Domain,Design and Engineering Software
+Compiler Design,Application Domain,Design and Engineering Software
+Case & Related Developer Tools,Application Domain,Design and Engineering Software
+Commercial-Off-The-Shelf (Cots),Application Domain,Design and Engineering Software
+Data Base Systems,Application Domain,Design and Engineering Software
+Distributed Computing,Application Domain,NULL
+Distributed Systems,Application Domain,Distributed Computing
+Cloud Computing Applications,Application Domain,Distributed Computing
+Mobile Applications,Application Domain,Distributed Computing
+Web Applications / Services,Application Domain,NULL
+Web-Based Systems,Application Domain,Web Applications / Services
+Web Services,Application Domain,Web Applications / Services
+Service-Based Systems,Application Domain,Web Applications / Services
+Systems Software,Application Domain,NULL
+Operating Systems,Application Domain,Systems Software
+Network and Communication Systems,Application Domain,Systems Software
+Multi-Processors Environment,Application Domain,Systems Software
+Plug-and-Play Environment,Application Domain,Systems Software
+Information Management and Decision Support Systems,Application Domain,NULL
+Expert System,Application Domain,Information Management and Decision Support Systems
+Management Information Systems,Application Domain,Information Management and Decision Support Systems
+Control-Dominant Software,Application Domain,NULL
+Embedded Systems,Application Domain,Control-Dominant Software
+Real-Time Systems,Application Domain,Control-Dominant Software
+Internet Of Things (Iots),Application Domain,Control-Dominant Software
+Computation-Dominant Software,Application Domain,NULL
+Speech Recognition,Application Domain,Computation-Dominant Software
+Signal Processing,Application Domain,Computation-Dominant Software
+Pattern Recognition,Application Domain,Computation-Dominant Software
+Data-Dominant Software,Application Domain,NULL
+File-Sharing Applications,Application Domain,Data-Dominant Software
+Exchange Data And Information,Application Domain,Data-Dominant Software
+Games / Entertainment,Application Domain,NULL
+Gaming Systems,Application Domain,Games / Entertainment
+Transaction Processing,Application Domain,NULL
+Banking System,Application Domain,Transaction Processing
+Maintainability,Qualitative aspects,NULL
+Popularity in the market,Qualitative aspects,NULL
+Reusability,Qualitative aspects,NULL
+Maturity level,Qualitative aspects,NULL
+Scalability,Qualitative aspects,NULL
+comprehensive consistent documentation,Qualitative aspects,NULL
+Accessible and friendly community,Qualitative aspects,NULL
+Human Resource Availability (Developers),Qualitative aspects,NULL
+self-documenting (or self-describing) syntax,Language Syntax,NULL
+simple and concise syntax,Language Syntax,NULL
+easy to write new code,Language Syntax,NULL
+easy to read existing code,Language Syntax,NULL
+easy to reuse existing code,Language Syntax,NULL

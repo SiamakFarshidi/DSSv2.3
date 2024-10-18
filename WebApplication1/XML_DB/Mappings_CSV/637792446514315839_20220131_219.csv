@@ -1,0 +1,90 @@
+[DataType],DataType
+Breadth: goal support,Boolean
+Communication,Boolean
+Analysis,Boolean
+Enaction,Boolean
+Control,Boolean
+Depth: view support,Boolean
+Functional,Boolean
+Dynamic/Behavioural,Boolean
+Informational/Resource,Boolean
+Organizational,Boolean
+Fit: domain support,Boolean
+General-purpose ML,Boolean
+Serialization format,Boolean
+Textual,Boolean
+Graphical/Diagrammical,Boolean
+Tabular,Boolean
+Mathematical,Boolean
+Paradigm,Boolean
+Imperative,Boolean
+Declarative,Boolean
+Expressiveness,Boolean
+Control flow/Sequence,Boolean
+Information flow/Message flow,Boolean
+Data flow,Boolean
+Inclusive choice (OR),Boolean
+Exclusive choice (XOR),Boolean
+Parallelism (AND),Boolean
+Input,Boolean
+Output,Boolean
+External entities,Boolean
+Agent (Roles/Entitites),Boolean
+Duration,Boolean
+Deadline,Boolean
+Business rules,Boolean
+Business goals,Boolean
+Annotation,Boolean
+Task/Activity,Boolean
+Event/Trigger,Boolean
+Portability,Boolean
+Mappability,Boolean
+Standardized file format,Boolean
+XML,Boolean
+PNML,Boolean
+XSD (XML Schema Definition),Boolean
+XMI (XML Metadata Interchange),Boolean
+yawl-XML,Boolean
+EPML,Boolean
+Enactability,Boolean
+Execution Engine Availability,Boolean
+Simulation support,Boolean
+Verification support,Boolean
+True concurrency,Boolean
+System Interpretation,Boolean
+Granularity,Boolean
+Decomposition,Boolean
+High-level support,Boolean
+Low-level support,Boolean
+State vs Activity,Boolean
+State-based,Boolean
+Activity-based,Boolean
+Modeler/Audience,Boolean
+Novice,Boolean
+Expert,Boolean
+Syntax,Boolean
+Graphical economy,Numeric
+Visual emphasis: colour,Boolean
+Formality (clear definition of rules),Numeric
+Perceptual discriminatibility,Numeric
+Semantic transparency,Numeric
+Universality,Boolean
+Organizational body,Boolean
+Conformity to standard,Boolean
+Maturity,Boolean
+Evolutionary,Boolean
+Theoretical Foundation,Boolean
+Documentation availability,Boolean
+Active community,Boolean
+HR availability,Numeric
+Training material availability,Boolean
+Training material availability (degree),Numeric
+YouTube availability,Boolean
+Course availability,Boolean
+Blog/Article availability,Boolean
+Popularity,Boolean
+Degree of Popularity,Numeric
+Tool support,Boolean
+tool availability (degree),Numeric
+free tools availability,Boolean
+open-source tools availability,Boolean

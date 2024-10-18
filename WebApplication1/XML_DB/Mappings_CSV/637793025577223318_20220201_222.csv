@@ -1,0 +1,73 @@
+[MoSCoW],Case Study 1
+Communication,M
+Analysis,M
+Enaction,N
+Control,N
+Functional,M
+Dynamic/Behavioural,M
+Informational/Resource,N
+Organizational,N
+General-purpose ML,M
+Textual,W
+Graphical/Diagrammical,M
+Tabular,N
+Mathematical,N
+Imperative,S
+Declarative,N
+Control flow/Sequence,M
+Information flow/Message flow,N
+Data flow,N
+Inclusive choice (OR),M
+Exclusive choice (XOR),M
+Parallelism (AND),M
+Input,M
+Output,M
+External entities,C
+Agent (Roles/Entitites),S
+Duration,N
+Deadline,N
+Business rules,S
+Business goals,S
+Annotation,M
+Task/Activity,M
+Event/Trigger,M
+Mappability,C
+Standardized file format,C
+XML,N
+PNML,N
+XSD (XML Schema Definition),N
+XMI (XML Metadata Interchange),N
+yawl-XML,N
+EPML,N
+Execution Engine Availability,N
+Simulation support,N
+Verification support,N
+True concurrency,S
+System Interpretation,C
+Decomposition,S
+High-level support,S
+Low-level support,S
+State-based,N
+Activity-based,M
+Novice,S
+Expert,M
+Graphical economy,M
+Visual emphasis: colour,W
+Formality (clear definition of rules),M
+Perceptual discriminatibility,S
+Semantic transparency,S
+Organizational body,M
+Conformity to standard,C
+Evolutionary,M
+Theoretical Foundation,N
+Documentation availability,M
+Active community,M
+HR availability,M
+Training material availability (degree),S
+YouTube availability,C
+Course availability,C
+Blog/Article availability,S
+Degree of Popularity,M
+tool availability (degree),M
+free tools availability,S
+open-source tools availability,C

@@ -1,0 +1,54 @@
+[SF],Cost,Certification,Publishing results,Flexibility,ICT tool support,Rigidness,Support,Audit,Evolution,Democracy,Network,Visibility,Completeness,SDGs,Transparency,Simplicity,Services offered,Accountability,Benchmarking,[Description]
+Self-assessment option,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,The possibility to assess an organisation's performance[comma] using the method[comma] without having to pay a fee and/or without having to officially become part of the network.
+Certification,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,After performing the ethical[comma] social and environmental accounting and meeting all requirements prescribed by the network an official document attesting to a status or level of achievement can be obtained.
+Score,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,"The accounting is quantified by means of a numeric score. For instance ""Company A's ESEA score of 2019 is 60/100"" (the scoring mechanism and range of the score is different for every method)."
+Results can be published,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,The network provides organisation with the possibility to publish the ESEA results (e.g. on the network's official website[comma] on verified social media accounts or in an online repository) 
+Predefined indicators,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"The method has already defined indicators that are part of the accounting. Examples of indicators are ""annual water consumption""[comma] ""number of female executives""[comma] ""minimum wages""."
+Extendable with indicators,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,In addition to the predefined indicators extra indicators can be added to the accounting.
+Question/indicator explanation,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,The predefined indicators are explained either in the method documentation or in an ICT tool.
+Official tool support,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,The method is supported by an official ICT tool.
+Offline tool,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,The method is supported by an official offline ICT tool.
+Online tool,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,The method is supported by an official online ICT tool.
+Whistle blowing mechanism,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,If someone sees that the accounting results are incorrect they can indicate this and the results in question are checked again.
+Built-in survey tool,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,The ICT tool has a built-in survey tool that allows surveys to be sent out and filled in my users.
+Infographic generation,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,The ICT tool can automatically generate an infographic based on the accounting data.
+Network tool (connect organisations),0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,All organisation that apply the same method can connect and communicate through a special networking tool.
+Many users in one account,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Multiple users can be added to an account in the tool. This allows for designating responsibility of parts of the assessment to people in different departments[comma] functions[comma] positions[comma] etc. without having to share the login credentials of the main user. Adding multiple users instead of sharing login credentials creates higher levels of traceability.
+Tool is continuously improved,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,New features and functionalities are continuously added to the tool.
+Internal validation,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,The method documentation states that someonefrom the assessed organisation[comma] who was not involved in the assessment[comma] checks the accounting results (e.g. for inconsistencies[comma] invalid or incorrect data).
+Peer review,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,Another organisation that applies the same ESEA method checks the accounting data of another organisation. This is done to make sure the data is complete[comma] accurate and correct.
+External audit,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,An auditor designated by the network checks all accounting data for inconsistencies and compliance with the requirements set by the network. 
+Existence of network,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,A network exists of organisation that all use the same ESEA method for performing the accounting.
+Democratic method development,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,During the method development input from the community is decisive. An example of democratic method development is when new indicators are added to the method specification based on votes by the organisations applying the method.
+Method is continuously improved,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,Over time the method is improved and new versions are released periodically.
+Input from the community,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,Mechanisms are implemented to gather input from the community (e.g. an online form on the official website[comma] a feedback field in the ICT tool[comma] special events)
+Local network groups,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,The network has local groups based on the region. For instance[comma] there can be network groups per country[comma] per continent or per region within a country. The level of activity per local network group is not taken into account.
+Network specific events,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,Special events are organised for members of a network. Events can lay focus on information provisioning[comma] networking[comma] discussing[comma] etc.  
+Helpdesk,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,A service providing information and support to practitioners of the ESEA method.
+Training material,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Anything that goes beyond the written material that can be used to learn more about the ESEA method or ESEA in general (e.g. workshops[comma] webinars[comma] knowledge clips[comma] etc.)
+Online directory,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,An online[comma] publicly available repository where all members of a network are displayed.
+Map,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,An online[comma] publicly available visualisation of a world map where all members of a network and their location are displayed on.
+Official label/logo for members,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,An official label or logo of a network that can be used by members.
+Newsletter,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,A bulletin issued periodically to the members of the network.
+Social topics,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Topics that influence groups within society or society as a whole (e.g. gender equity[comma] forced labour[comma] customer stewardship)
+Environmental topics,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Topics that consider harmful effects of human activity on the biophysical environment.
+Support SIP,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Either the method documentation explains how organisations should think about sustainability improvement planning or the network provides extra services or material that supports organisations in sustainability improvement planning.
+Suggested goals,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,The method or ICT tool suggests goals based on the accounting results. These suggested goals can be based on the principles of the method as well.
+Ideas for improvements,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,Either the ICT tool suggest action that can be taken to improve the ethical[comma] social and environmental performance of the organisation or the network provides a service that helps the organisation formulate ideas for improvement.
+Existence of social market,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,The Existence of a space where organisations and consumers can buy products and services from organisations performing ESEA. 
+Discount from members,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Members within a network can buy goods and services from each other with discount.
+Mapping to SDGs,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,The topics and/or indicators defined in the method specification are mapped to the sustainable development goals. The mappings can help organisations report on the results of the ESEA; increase comparability between ESEA methods; help select relevant indicators.
+Workshop/webinar on SDGs,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,Workshop and webinars on how to apply the ESEA methods in the context of the SDGs.
+Existence of aggregated report,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,The network creates (annual) reports in which they aggregate the data from their members.
+Comparing results within network,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,The accounting results of members are compared within the network.
+Serious blogs (medium[comma] network website[comma] etc.),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,The network writes serious blogposts for instance on their own website or on platforms such as Medium.
+Major newspapers (local),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,The network or the ESEA method is mentioned in major local newspapers.
+Expelling members,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Organisation can be expelled from being part of the network if they do not longer comply to their requirements.
+Commitment statement,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,In order to become a member of the network[comma] organisations have to write a commitment statement.
+Public manuals,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Method documentation and tool support manuals are all publicly available.
+Mentioned in scientific papers,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,The method and/or the network are mentioned in scientific papers.
+Tool or method adapts to organisational characteristics (e.g. size or industry),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,The method can be adapted to organisational characteristics (e.g. size[comma] industry[comma] company type)[comma] meaning the topics and/or indicators that need to be assessed might differ per organisation.
+Principle based,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,The foundation of the method is a set of principles that every member should oblige to.
+Popularity in the market,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,The state or condition of being liked[comma] admired[comma] or supported by many people.
+Network maturity,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"Maturity level specifies certain characteristics for processes[comma] with higher maturity levels having more advanced characteristics and is a step towards achieving a mature process[comma] providing a set of goals which[comma] when satisfied[comma] places an organization at the next level of maturity.
+"

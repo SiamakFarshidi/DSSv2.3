@@ -1,0 +1,53 @@
+[DataType],DataType
+Self-assessment option,Boolean
+Certification,Boolean
+Score,Boolean
+Results can be published,Boolean
+Predefined indicators,Boolean
+Extendable with indicators,Boolean
+Question/indicator explanation,Boolean
+Official tool support,Boolean
+Offline tool,Boolean
+Online tool,Boolean
+Whistle blowing mechanism,Boolean
+Built-in survey tool,Boolean
+Infographic generation,Boolean
+Network tool (connect organisations),Boolean
+Many users in one account,Boolean
+Tool is continuously improved,Boolean
+Internal validation,Boolean
+Peer review,Boolean
+External audit,Boolean
+Existence of network,Boolean
+Democratic method development,Boolean
+Method is continuously improved,Boolean
+Input from the community,Boolean
+Local network groups,Boolean
+Network specific events,Boolean
+Helpdesk,Boolean
+Training material,Boolean
+Online directory,Boolean
+Map,Boolean
+Official label/logo for members,Boolean
+Newsletter,Boolean
+Social topics,Boolean
+Environmental topics,Boolean
+Support SIP,Boolean
+Suggested goals,Boolean
+Ideas for improvements,Boolean
+Existence of social market,Boolean
+Discount from members,Boolean
+Mapping to SDGs,Boolean
+Workshop/webinar on SDGs,Boolean
+Existence of aggregated report,Boolean
+Comparing results within network,Boolean
+Serious blogs (medium[comma] network website[comma] etc.),Boolean
+Major newspapers (local),Boolean
+Expelling members,Boolean
+Commitment statement,Boolean
+Public manuals,Boolean
+Mentioned in scientific papers,Boolean
+Tool or method adapts to organisational characteristics (e.g. size or industry),Boolean
+Principle based,Boolean
+Popularity in the market,Numeric
+Network maturity,Numeric

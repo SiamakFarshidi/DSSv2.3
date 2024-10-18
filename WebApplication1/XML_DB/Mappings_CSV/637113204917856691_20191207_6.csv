@@ -1,0 +1,112 @@
+[DataType],DataType
+Array programming,Boolean
+Metaprogramming,Boolean
+Imperative programming,Boolean
+Language-oriented programming(LOP),Boolean
+Object-oriented programming (OOP),Boolean
+Aspect-Oriented Programming (AOP),Boolean
+Functional programming,Boolean
+Dynamic programming,Boolean
+Procedural programming,Boolean
+Generic programming,Boolean
+Reflective programming,Boolean
+Event-driven programming,Boolean
+Declarative programming,Boolean
+Non-structured programming,Boolean
+Flow-Based Programming (FBP),Boolean
+Constraint programming,Boolean
+Data-driven programming,Boolean
+Probabilistic programming,Boolean
+Debugger,Boolean
+Testing tools,Boolean
+GUI builder,Boolean
+Profiler,Boolean
+Static code analysis,Boolean
+Toolchain,Boolean
+Code coverage,Boolean
+Code refactoring,Boolean
+Package Manager,Boolean
+ORM,Boolean
+Cross platform / Multiplatform (platform-independent),Boolean
+Windows,Boolean
+Linux,Boolean
+macOS,Boolean
+Docker,Boolean
+AWS,Boolean
+Google Cloud Platform,Boolean
+Microsoft Azure,Boolean
+IBM Cloud or Watson,Boolean
+Arduino,Boolean
+Heroku,Boolean
+Kubernetes,Boolean
+Wordpress,Boolean
+Android,Boolean
+iOS,Boolean
+Web-based,Boolean
+Licensed,Boolean
+Open source,Boolean
+Front-end,Boolean
+Back-end,Boolean
+Full-stack,Boolean
+Interpreter,Boolean
+Compiler,Boolean
+Bytecode,Boolean
+General-Purpose PL,Boolean
+Domain-Specific PL,Boolean
+socket programming,Boolean
+support threading,Boolean
+Software Architecture Patterns,Boolean
+Software Architecture Design Patterns,Boolean
+Open source compiler/interpreter ,Boolean
+Free implementation of the core libraries,Boolean
+Design and Engineering Software,Boolean
+Interactive System,Boolean
+Compiler Design,Boolean
+Case & Related Developer Tools,Boolean
+Commercial-Off-The-Shelf (Cots),Boolean
+Data Base Systems,Boolean
+Distributed Computing,Boolean
+Distributed Systems,Boolean
+Cloud Computing Applications,Boolean
+Mobile Applications,Boolean
+Web Applications / Services,Boolean
+Web-Based Systems,Boolean
+Web Services,Boolean
+Service-Based Systems,Boolean
+Systems Software,Boolean
+Operating Systems,Boolean
+Network and Communication Systems,Boolean
+Multi-Processors Environment,Boolean
+Plug-and-Play Environment,Boolean
+Information Management and Decision Support Systems,Boolean
+Expert System,Boolean
+Management Information Systems,Boolean
+Control-Dominant Software,Boolean
+Embedded Systems,Boolean
+Real-Time Systems,Boolean
+Internet Of Things (Iots),Boolean
+Computation-Dominant Software,Boolean
+Speech Recognition,Boolean
+Signal Processing,Boolean
+Pattern Recognition,Boolean
+Data-Dominant Software,Boolean
+File-Sharing Applications,Boolean
+Exchange Data And Information,Boolean
+Games / Entertainment,Boolean
+Gaming Systems,Boolean
+Transaction Processing,Boolean
+Banking System,Boolean
+Maintainability,Numeric
+Popularity in the market,Numeric
+Reusability,Numeric
+Maturity level,Numeric
+Scalability,Numeric
+comprehensive consistent documentation,Numeric
+"Accessible, active, and friendly community",Numeric
+Human Resource Availability (Developers),Numeric
+LinkedIn (People),Numeric
+self-documenting (or self-describing) syntax,Numeric
+simple and concise syntax,Numeric
+easy to write new code,Numeric
+easy to read existing code,Numeric
+easy to reuse existing code,Numeric

@@ -1,0 +1,74 @@
+[Grouping],Order,UpperLevel
+Communication,Breadth: goal support,NULL
+Analysis,Breadth: goal support,NULL
+Enaction,Breadth: goal support,NULL
+Control,Breadth: goal support,NULL
+Functional,Depth: view support,NULL
+Dynamic/behavioural,Depth: view support,NULL
+Informational/resource,Depth: view support,NULL
+Organizational,Depth: view support,NULL
+General-purpose ML,Fit: domain support,NULL
+Textual,Serialization format,NULL
+Graphical/Diagrammical,Serialization format,NULL
+Tabular,Serialization format,NULL
+Mathematical,Serialization format,NULL
+Imperative,Fuzzyness,NULL
+Declarative,Fuzzyness,NULL
+Control flow/Sequence,Expressiveness,NULL
+Information flow/Message flow,Expressiveness,NULL
+Data flow,Expressiveness,NULL
+Inclusive choice (OR),Expressiveness,Gateways
+Exclusive choice (XOR),Expressiveness,Gateways
+Parallelism (AND),Expressiveness,Gateways
+Input,Expressiveness,NULL
+Output,Expressiveness,NULL
+External entities,Expressiveness,NULL
+Agent (Roles/Entities),Expressiveness,NULL
+Duration,Expressiveness,NULL
+Deadline,Expressiveness,NULL
+Business rules,Expressiveness,NULL
+Business goals,Expressiveness,NULL
+Annotation,Expressiveness,NULL
+Task/Activity,Expressiveness,NULL
+Event/Trigger,Expressiveness,NULL
+Mappability,Enactability,Concurrency
+Standardized file format,Portability,NULL
+PNML,Portability,NULL
+XSD (XML Schema Definition),Portability,Standardized file format
+XMI (XML Metadata Interchange),Portability,Standardized file format
+Yawl-XML,Portability,Standardized file format
+EPML,Portability,Standardized file format
+XML,Portability,Standardized file format
+Execution Engine availability,Portability,Standardized file format
+Simulation support,Enactability,NULL
+Verification support,Enactability,NULL
+True concurrency,Enactability,NULL
+System Interpretation,Interpretation,Enactability
+Decomposition,Granularity,NULL
+High-level support,Granularity,Hierarchical structure
+Low-level support,Granularity,Hierarchical structure
+State-based,SA-approach,NULL
+Activity-based,SA-approach,NULL
+Novice,Modeler,NULL
+Expert,Modeler,NULL
+Graphical economy,Syntax,NULL
+Perceptual discriminatibility,Syntax,NULL
+Semantic transparency,Syntax,NULL
+Visual emphasis: colour,Syntax,NULL
+Formality,Syntax,NULL
+Organizational body,Maturity,NULL
+Conformity to standard,Maturity,NULL
+Evolutionary,Universality,NULL
+Theoretical foundation,Universality,NULL
+Documentation availability,Maturity,NULL
+Active community,Maturity,NULL
+HR availability,Maturity,NULL
+Training material availability (degree),Maturity,NULL
+YouTube availability,Maturity,Training material availability
+Course availability,Maturity,Training material availability
+Blog availability,Maturity,Training material availability
+Degree of Popularity,Popularity,NULL
+tool availability,Tool support,NULL
+free tools availability,Tool support,Tool availability
+open-source tools availability,Tool support,Tool availability
+

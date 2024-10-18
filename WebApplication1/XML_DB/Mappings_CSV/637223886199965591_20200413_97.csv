@@ -1,0 +1,41 @@
+[Grouping],Order,UpperLevel
+Utrecht centraal,Near by,NULL
+Zwolle centraal,Near by,NULL
+Amsterdam centraal,Near by,NULL
+Rotterdam centraal,Near by,NULL
+Less than 300 EUR,Rental cost,NULL
+Less than 500 EUR,Rental cost,NULL
+Less than 700 EUR,Rental cost,NULL
+Less than 1000 EUR,Rental cost,NULL
+Less than 1200 EUR,Rental cost,NULL
+Less than 1500 EUR,Rental cost,NULL
+Less than 2000 EUR,Rental cost,NULL
+Suitable for students,Suitability,NULL
+Suitable only for one person,Suitability,NULL
+Suitable only for a couple,Suitability,NULL
+Suitable only for a a family,Suitability,NULL
+Room,Type of house,NULL
+Studio,Type of house,NULL
+Apartment,Type of house,NULL
+Flat,Type of house,NULL
+11 to 25 sq meters,Living space,NULL
+25 to 50 sq meters,Living space,NULL
+50 to 75 sq meters,Living space,NULL
+more than 75 sq meters,Living space,NULL
+Less than 5 years,Years of construction,NULL
+Less than 10 years,Years of construction,NULL
+Less than 20 years,Years of construction,NULL
+Less than 50 years,Years of construction,NULL
+Separated bathroom,Facilities,NULL
+Balcony,Facilities,NULL
+Garden,Facilities,NULL
+Pet is allowed,Facilities,NULL
+Has a parking,Location Type,NULL
+Near to city center,Location Type,NULL
+Near to a public bus station,Location Type,NULL
+Near to a train station,Location Type,NULL
+Near to a gym,Location Type,NULL
+Near to a church,Location Type,NULL
+Near to a mosque,Location Type,NULL
+Near to a shopping center,Location Type,NULL
+Near to a supermarket,Location Type,NULL

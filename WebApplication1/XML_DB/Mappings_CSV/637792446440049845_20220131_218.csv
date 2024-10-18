@@ -1,0 +1,73 @@
+[Grouping],Order,UpperLevel
+Communication,Breadth: goal support,NULL
+Analysis,Breadth: goal support,NULL
+Enaction,Breadth: goal support,NULL
+Control,Breadth: goal support,NULL
+Functional,Depth: view support,NULL
+Dynamic/Behavioural,Depth: view support,NULL
+Informational/Resource,Depth: view support,NULL
+Organizational,Depth: view support,NULL
+General-purpose ML,Fit: domain support,NULL
+Textual,Serialization format,NULL
+Graphical/Diagrammical,Serialization format,NULL
+Tabular,Serialization format,NULL
+Mathematical,Serialization format,NULL
+Imperative,Paradigm,NULL
+Declarative,Paradigm,NULL
+Control flow/Sequence,Expressiveness,NULL
+Information flow/Message flow,Expressiveness,NULL
+Data flow,Expressiveness,NULL
+Inclusive choice (OR),Expressiveness,NULL
+Exclusive choice (XOR),Expressiveness,NULL
+Parallelism (AND),Expressiveness,NULL
+Input,Expressiveness,NULL
+Output,Expressiveness,NULL
+External entities,Expressiveness,NULL
+Agent (Roles/Entitites),Expressiveness,NULL
+Duration,Expressiveness,NULL
+Deadline,Expressiveness,NULL
+Business rules,Expressiveness,NULL
+Business goals,Expressiveness,NULL
+Annotation,Expressiveness,NULL
+Task/Activity,Expressiveness,NULL
+Event/Trigger,Expressiveness,NULL
+Mappability,Portability,NULL
+Standardized file format,Portability,NULL
+XML,Portability,Standardized file format
+PNML,Portability,Standardized file format
+XSD (XML Schema Definition),Portability,Standardized file format
+XMI (XML Metadata Interchange),Portability,Standardized file format
+yawl-XML,Portability,Standardized file format
+EPML,Portability,Standardized file format
+Execution Engine Availability,Enactability,NULL
+Simulation support,Enactability,NULL
+Verification support,Enactability,NULL
+True concurrency,Enactability,NULL
+System Interpretation,Enactability,NULL
+Decomposition,Granularity,NULL
+High-level support,Granularity,NULL
+Low-level support,Granularity,NULL
+State-based,State vs Activity,NULL
+Activity-based,State vs Activity,NULL
+Novice,Modeler/Audience,NULL
+Expert,Modeler/Audience,NULL
+Graphical economy,Syntax,NULL
+Visual emphasis: colour,Syntax,NULL
+Formality (clear definition of rules),Syntax,NULL
+Perceptual discriminatibility,Syntax,NULL
+Semantic transparency,Syntax,NULL
+Organizational body,Universality,NULL
+Conformity to standard,Universality,NULL
+Evolutionary,Maturity,NULL
+Theoretical Foundation,Maturity,NULL
+Documentation availability,Maturity,NULL
+Active community,Maturity,NULL
+HR availability,Maturity,NULL
+Training material availability (degree),Training material availability,NULL
+YouTube availability,Training material availability,NULL
+Course availability,Training material availability,NULL
+Blog/Article availability,Training material availability,NULL
+Degree of Popularity,Popularity,NULL
+tool availability (degree),Tool support,NULL
+free tools availability,Tool support,NULL
+open-source tools availability,Tool support,NULL

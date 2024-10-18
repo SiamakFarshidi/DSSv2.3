@@ -1,0 +1,99 @@
+[FA],Outsystems,Mendix,Appian,Salesforce (Lightning),Microsoft PowerApps,Kissflow,Zoho (Creator),ServiceNow (Now Platform),Oracle APEX,Pega (Infinity),Google App Maker,Quick Base,TrackVia,WaveMaker,Kony (Quantum),GeneXus,Codeless Platforms,IBM (Digital App Builder),Software AG ( AgileApps Live),Betty Blocks,Servoy,42windmills,Thinkwise,Usoft,Triggre,Aptean ,OpenText (AppWorks 16),WEM Modeler,GorillaIT (Karooda Platform),AgilePoint (NX)
+General-purpose platform,1,1,0,1,1,0,1,0,1,1,1,1,0,1,1,0,1,1,0,1,1,0,1,0,1,0,0,1,1,1
+Process app platform,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+Mobile app platform,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Request-handling platform,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+Model-centric (Low-code),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1
+Model only (No-code),0,1,1,1,1,1,0,0,0,1,0,0,1,1,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,1
+Domain Experts,0,1,1,1,1,1,0,0,0,1,0,0,1,1,1,0,0,0,1,1,0,1,1,1,1,1,1,1,1,1
+Business Analysts,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Professional Developers,1,1,0,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,1,1
+Visual IDE,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Multi-channel/Cross-platform Application,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,0,1,0,1,0,0,1,0,0,0,0
+Programming mandatory,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,1,0,0,0,1,1,1,0,0,0,1,1,0,0
+Programming optional,1,1,1,1,1,1,0,1,0,1,0,1,1,1,1,0,0,0,1,1,0,0,0,1,1,1,0,0,1,1
+Integration,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,0
+Cross-Platform Integration,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,0,0,0,0,1,1,1,1,1
+Integrate with an ERP system,0,1,1,0,0,1,1,0,1,1,0,0,1,0,0,1,1,1,0,0,1,0,1,0,0,0,1,1,0,1
+data mapping,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,0,0,1,0,0,0
+REST,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,0
+SOAP,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,0,1,1,0,1,1,0,1,0,1,0,0
+OData services,1,1,0,1,1,0,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+importing data,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,1,1,1,0,1,0,0,1,0,0,0
+Deployment,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Public Cloud platform,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Private Cloud platform,1,1,1,0,1,0,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+On-premise,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,0,0,1,0,0,1,0,0,1
+Access control,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Identity and permissions management,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Multi-factor authentication (MFA),1,1,1,1,1,1,1,0,1,1,0,1,0,0,1,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0
+OAuth,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,0,0,0,1,1,1,0,1
+Single Sign-On (SSO),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,0,0,1,0,0,1,1,0,1
+Data Management,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1
+SQL or NoSQL databases,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,0,1,0,0,1,0,1,1,0,1,0,0,0,0
+Web API,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,1
+Service Calls,1,1,1,1,1,0,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0
+local application-specific databases,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Connectors to various back-ends or services,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,1,0,0,1,0,1,0,0,0,0,1,0,0
+Real-time Analytics,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,0,0,1
+Report and Analytics,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,1,1,1,1,1,0,0,1,0,0,1,1,0,0,1
+Application lifecycle manager,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,1,1,0,0
+user stories,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+Built-in team collaboration,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,1,1,0,0
+sandbox-to-production phases,1,1,0,0,1,0,0,1,1,1,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+component catalogue,1,1,0,0,1,0,0,1,1,0,0,1,0,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Application and portfolio management ,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Version control,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Administrative controls,1,1,1,1,1,0,1,1,1,1,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Tool set,1,1,0,1,1,0,0,1,1,0,1,1,0,1,1,1,1,1,1,0,1,0,1,0,0,1,0,0,0,0
+Form & View,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Predefined components,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,1
+Multilingual Apps,0,1,0,1,1,1,1,1,1,0,1,0,0,0,0,1,0,1,1,0,1,0,0,1,0,0,0,1,0,0
+Company-Branded Templates & Styling,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0
+Create extensions and widget libraries,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Entity-Attribute-Relationship (EAR),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,0,1
+Object-Role Modeling (ORM),0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Ontology modeling,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Data rules,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1
+Process rules,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1
+Decision table,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Decision tree,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Expression editor,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,1,0,1
+Natural language rules,0,0,0,1,0,0,1,1,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Close to programming language,1,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Programmed,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+Modeling Tool,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Native modeling tool,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,1,0,1,0,0,1,0,0,1,0,0,1
+Web modeling tool,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,0,1,1,0,1,1,1
+Engine,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Code Generation,0,1,0,1,1,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,1,0,0,1,1,0,0,1,1
+Two step generation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Model interpretation,1,0,1,0,0,1,0,0,1,1,1,0,1,0,0,0,0,1,1,1,0,0,1,1,0,0,1,1,0,0
+Storage,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,0,0,1,0,1
+XML/JSON as data storage,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,0,1,0,1,1,0,0,0,1,0,1
+Store model locally,0,1,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1,0,1,0,0,1,0,0,0,0,1
+Portability,1,1,0,0,1,0,1,1,1,0,1,0,0,1,0,1,1,1,0,0,1,1,0,0,1,0,1,1,0,0
+Convert model to text,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,0,0
+Support different stacks,1,1,0,0,1,0,1,1,1,0,1,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Plug and play architecture,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Workflow,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Process flow,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1
+Case flow,1,0,1,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+Mobile Apps,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+Web portals,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Web applications,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Smartwatch (wearable) Apps,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HIPAA compliant,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0
+"ISO 27001:2013 certification
+",1,1,1,1,1,1,1,1,0,1,1,0,1,0,1,0,0,1,1,1,0,0,0,1,0,1,1,1,0,1
+SOC 1,0,1,1,0,1,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+SOC 2,1,1,1,0,1,1,1,1,0,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,1
+SOC 3,0,1,1,0,1,1,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0
+PCI DSS,1,1,1,1,1,0,1,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+GDPR,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,0,1
+Popularity in the market,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Active Community,0.9,0.9,0.9,0.9,0.9,0.1,0.5,0.9,0.9,0.9,0.9,0.5,0.1,0.1,0.5,0.1,0.1,0.9,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.9,0.1,0.1,0.1,0.1
+Maturity level of the company,0.9,0.5,0.9,0.9,0.9,0.1,0.9,0.9,0.9,0.9,0.9,0.5,0.5,0.5,0.9,0.5,0.5,0.9,0.1,0.5,0.5,0.5,0.5,0.5,0.1,0.9,0.5,0.1,0.5,0.5
+Future Roadmap,0.9,0.9,0.5,0.9,0.9,0.1,0.1,0.9,0.9,0.1,0.9,0.1,0.5,0.9,0.1,0.5,0.1,0.9,0.1,0.5,0.1,0.1,0.1,0.5,0.1,0.5,0.9,0.1,0.1,0.1
+"[URL]
+",https://www.outsystems.com/,https://www.mendix.com/,https://www.appian.com/,https://www.salesforce.com/eu/campaign/lightning/,https://powerapps.microsoft.com/en-us/,https://kissflow.com/,https://www.zoho.com/creator/,https://www.servicenow.com/now-platform.html,https://apex.oracle.com/en/,https://www.pega.com/infinity,https://developers.google.com/appmaker,https://www.quickbase.com/,https://trackvia.com/,https://www.wavemaker.com/low-code-app-development-platform/,https://www.kony.com/,https://www.genexus.com/en/products/genexus,https://www.codelessplatforms.com/applications-platform/,https://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/digital-app-builder/,https://www.softwareag.com/corporate/products/az/agileapps/default.html,https://www.bettyblocks.com/bettyblocks-platform,https://servoy.com/,http://www.42windmills.com/,https://www.thinkwisesoftware.com/en/overview/,https://www.usoft.com/the-platform,https://triggre.com/en/,https://www.aptean.com/,https://www.opentext.nl/products-and-solutions/opentext-release-16/opentext-appworks-16,https://wem.io/no-code-development-features/,https://gorillait.nl/en/karooda-en/,https://agilepoint.com/

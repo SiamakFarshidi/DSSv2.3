@@ -1,0 +1,111 @@
+[MoSCoW],Case Study 1
+Array programming,N
+Metaprogramming,C
+Imperative programming,M
+Language-oriented programming(LOP),N
+Object-oriented programming (OOP),M
+Aspect-Oriented Programming (AOP),C
+Functional programming,M
+Dynamic programming,C
+Procedural programming,C
+Generic programming,S
+Reflective programming,C
+Event-driven programming,M
+Declarative programming,C
+Non-structured programming,C
+Flow-Based Programming (FBP),C
+Constraint programming,C
+Data-driven programming,C
+Probabilistic programming,N
+Debugger,M
+Testing tools,M
+GUI builder,C
+Profiler,M
+Static code analysis,M
+Toolchain,M
+Code coverage,M
+Code refactoring,C
+Package Manager,S
+ORM,C
+Cross platform / Multiplatform (platform-independent),M
+Windows,S
+Linux,M
+macOS,S
+Docker,M
+AWS,C
+Google Cloud Platform,C
+Microsoft Azure,C
+IBM Cloud or Watson,C
+Arduino,C
+Heroku,C
+Kubernetes,C
+Wordpress,N
+Android,C
+iOS,C
+Web-based,N
+Licensed,N
+Open source,M
+Front-end,N
+Back-end,N
+Full-stack,N
+Interpreter,C
+Compiler,N
+Bytecode,C
+General-Purpose PL,N
+Domain-Specific PL,N
+socket programming,N
+support threading,N
+Software Architecture Patterns,N
+Software Architecture Design Patterns,N
+Open source compiler/interpreter,N
+Free implementation of the core libraries,N
+Design and Engineering Software,N
+Interactive System,N
+Compiler Design,N
+Case & Related Developer Tools,N
+Commercial-Off-The-Shelf (Cots),N
+Data Base Systems,S
+Distributed Computing,N
+Distributed Systems,S
+Cloud Computing Applications,C
+Mobile Applications,C
+Web Applications / Services,N
+Web-Based Systems,S
+Web Services,S
+Service-Based Systems,C
+Systems Software,N
+Operating Systems,N
+Network and Communication Systems,N
+Multi-Processors Environment,N
+Plug-and-Play Environment,N
+Information Management and Decision Support Systems,N
+Expert System,N
+Management Information Systems,N
+Control-Dominant Software,N
+Embedded Systems,S
+Real-Time Systems,S
+Internet Of Things (Iots),C
+Computation-Dominant Software,N
+Speech Recognition,N
+Signal Processing,N
+Pattern Recognition,C
+Data-Dominant Software,N
+File-Sharing Applications,C
+Exchange Data And Information,C
+Games / Entertainment,N
+Gaming Systems,N
+Transaction Processing,N
+Banking System,N
+Maintainability,N
+Popularity in the market,N
+Reusability,N
+Maturity level,N
+Scalability,N
+comprehensive consistent documentation,N
+Accessible and friendly community,N
+Human Resource Availability (Developers),N
+self-documenting (or self-describing) syntax,N
+simple and concise syntax,N
+easy to write new code,N
+easy to read existing code,N
+easy to reuse existing code,N

@@ -1,0 +1,95 @@
+[DataType],DataType
+General-purpose platform,Boolean
+Process app platform,Boolean
+Mobile app platform,Boolean
+Request-handling platform,Boolean
+Model-centric (Low-code),Boolean
+Model only (No-code),Boolean
+Domain Experts,Boolean
+Business Analysts,Boolean
+Professional Developers,Boolean
+Visual IDE,Boolean
+Multi-channel/Cross-platform Application,Boolean
+Programming mandatory,Boolean
+Programming optional,Boolean
+Integration,Boolean
+Cross-Platform Integration,Boolean
+Integrate with an ERP system,Boolean
+Data mapping,Boolean
+REST,Boolean
+SOAP,Boolean
+OData services,Boolean
+Importing data,Boolean
+Deployment,Boolean
+Public Cloud platform,Boolean
+Private Cloud platform,Boolean
+On-premise,Boolean
+Access control,Boolean
+Identity and permissions management,Boolean
+Multi-factor authentication (MFA),Boolean
+OAuth,Boolean
+Single Sign-On (SSO),Boolean
+Data Management,Boolean
+SQL or NoSQL databases,Boolean
+Web API,Boolean
+Service Calls,Boolean
+Local application-specific databases,Boolean
+Connectors to various back-ends or services,Boolean
+Real-time Analytics,Boolean
+Report and Analytics,Boolean
+Application lifecycle manager,Boolean
+user stories,Boolean
+Built-in team collaboration,Boolean
+sandbox-to-production phases,Boolean
+component catalogue,Boolean
+Application and portfolio management ,Boolean
+Version control,Boolean
+Administrative controls,Boolean
+Tool set,Boolean
+Form & View,Boolean
+Predefined components,Boolean
+Multilingual Apps,Boolean
+Company-Branded Templates & Styling,Boolean
+Create extensions and widget libraries,Boolean
+Entity-Attribute-Relationship (EAR),Boolean
+Object-Role Modeling (ORM),Boolean
+Ontology modeling,Boolean
+Data rules,Boolean
+Process rules,Boolean
+Decision table,Boolean
+Decision tree,Boolean
+Expression editor,Boolean
+Natural language rules,Boolean
+Close to programming language,Boolean
+Programmed,Boolean
+Modeling Tool,Boolean
+Native modeling tool,Boolean
+Web modeling tool,Boolean
+Engine,Boolean
+Code Generation,Boolean
+Model interpretation,Boolean
+Storage,Boolean
+XML/JSON as data storage,Boolean
+Store model locally,Boolean
+Portability,Boolean
+Convert model to text,Boolean
+Support different stacks,Boolean
+Plug and play architecture,Boolean
+Workflow,Boolean
+Process flow,Boolean
+Case flow,Boolean
+Mobile Apps,Boolean
+Web portals,Boolean
+Web applications,Boolean
+Smartwatch (wearable) Apps,Boolean
+HIPAA compliant,Boolean
+ISO 27001-2013 certification,Boolean
+SOC 1,Boolean
+SOC 2,Boolean
+SOC 3,Boolean
+PCI DSS,Boolean
+GDPR,Boolean
+Popularity in the market,Numeric
+Active Community,Numeric
+Maturity level of the company,Numeric
+Future Roadmap,Numeric

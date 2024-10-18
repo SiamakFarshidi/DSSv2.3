@@ -1,0 +1,112 @@
+[MoSCoW],MoSCoW
+Array programming,
+Metaprogramming,
+Imperative programming,
+Language-oriented programming(LOP),
+Object-oriented programming (OOP),M
+Aspect-Oriented Programming (AOP),
+Functional programming,S
+Dynamic programming,
+Procedural programming,S
+Generic programming,S
+Reflective programming,
+Event-driven programming,S
+Declarative programming,
+Non-structured programming,
+Flow-Based Programming (FBP),
+Constraint programming,
+Data-driven programming,
+Probabilistic programming,
+Debugger,M
+Testing tools,M
+GUI builder,
+Profiler,
+Static code analysis,S
+Toolchain,
+Code coverage,
+Code refactoring,
+Package Manager,C
+ORM,S
+Cross platform / Multiplatform (platform-independent),
+Windows,M
+Linux,
+macOS,
+Docker,
+AWS,
+Google Cloud Platform,
+Microsoft Azure,
+IBM Cloud or Watson,
+Arduino,
+Heroku,
+Kubernetes,
+Wordpress,
+Android,
+iOS,
+Web-based,M
+Licensed,
+Open source,
+Front-end,M
+Back-end,M
+Full-stack,M
+Interpreter,
+Compiler,
+Bytecode,
+General-Purpose PL,M
+Domain-Specific PL,
+socket programming,M
+support threading,S
+Software Architecture Patterns,C
+Software Architecture Design Patterns,C
+Open source compiler/interpreter ,M
+Free implementation of the core libraries,M
+Design and Engineering Software,
+Interactive System,
+Compiler Design,
+Case & Related Developer Tools,
+Commercial-Off-The-Shelf (Cots),
+Data Base Systems,
+Distributed Computing,
+Distributed Systems,
+Cloud Computing Applications,
+Mobile Applications,
+Web Applications / Services,
+Web-Based Systems,M
+Web Services,M
+Service-Based Systems,
+Systems Software,
+Operating Systems,
+Network and Communication Systems,
+Multi-Processors Environment,
+Plug-and-Play Environment,
+Information Management and Decision Support Systems,
+Expert System,
+Management Information Systems,
+Control-Dominant Software,
+Embedded Systems,
+Real-Time Systems,
+Internet Of Things (Iots),
+Computation-Dominant Software,
+Speech Recognition,
+Signal Processing,
+Pattern Recognition,
+Data-Dominant Software,
+File-Sharing Applications,
+Exchange Data And Information,
+Games / Entertainment,
+Gaming Systems,
+Transaction Processing,
+Banking System,M
+Maintainability,M
+Popularity in the market,
+Reusability,
+Maturity level,M
+Scalability,S
+comprehensive consistent documentation,S
+Accessible and friendly community,
+Human Resource Availability (Developers),M
+self-documenting (or self-describing) syntax,
+simple and concise syntax,
+easy to write new code,
+easy to read existing code,
+easy to reuse existing code,
+,

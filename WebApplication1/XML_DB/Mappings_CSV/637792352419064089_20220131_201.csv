@@ -1,0 +1,74 @@
+[DataType],DataType
+Communication,Boolean
+Analysis,Boolean
+Enaction,Boolean
+Control,Boolean
+Functional,Boolean
+Dynamic/behavioural,Boolean
+Informational/resource,Boolean
+Organizational,Boolean
+General-purpose ML,Boolean
+Textual,Boolean
+Graphical/Diagrammical,Boolean
+Tabular,Boolean
+Mathematical,Boolean
+Imperative,Boolean
+Declarative,Boolean
+Control flow/Sequence,Boolean
+Information flow/Message flow,Boolean
+Data flow,Boolean
+Inclusive choice (OR),Boolean
+Exclusive choice (XOR),Boolean
+Parallelism (AND),Boolean
+Input,Boolean
+Output,Boolean
+External entities,Boolean
+Agent (Roles/Entities),Boolean
+Duration,Boolean
+Deadline,Boolean
+Business rules,Boolean
+Business goals,Boolean
+Annotation,Boolean
+Task/Activity,Boolean
+Event/Trigger,Boolean
+Mappability,Boolean
+Standardized file format,Boolean
+PNML,Boolean
+XSD (XML Schema Definition),Boolean
+XMI (XML Metadata Interchange),Boolean
+Yawl-XML,Boolean
+EPML,Boolean
+XML,Boolean
+Execution Engine availability,Boolean
+Simulation support,Boolean
+Verification support,Boolean
+True concurrency,Boolean
+System Interpretation,Boolean
+Decomposition,Boolean
+High-level support,Boolean
+Low-level support,Boolean
+State-based,Boolean
+Activity-based,Boolean
+Novice,Boolean
+Expert,Boolean
+Graphical economy,Numeric
+Perceptual discriminatibility,Boolean
+Semantic transparency,Numeric
+Visual emphasis: colour,Numeric
+Formality,Numeric
+Organizational body,Boolean
+Conformity to standard,Numeric
+Evolutionary,Boolean
+Theoretical foundation,Boolean
+Documentation availability,Boolean
+Active community,Boolean
+HR availability,Boolean
+Training material availability (degree),Numeric
+YouTube availability,Boolean
+Course availability,Boolean
+Blog availability,Boolean
+Degree of Popularity,Numeric
+tool availability,Numeric
+free tools availability,Boolean
+open-source tools availability,Boolean
+

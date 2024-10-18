@@ -1,0 +1,41 @@
+[DataType],DataType
+Utrecht centraal,Boolean
+Zwolle centraal,Boolean
+Amsterdam centraal,Boolean
+Rotterdam centraal,Boolean
+Less than 300 EUR,Boolean
+Less than 500 EUR,Boolean
+Less than 700 EUR,Boolean
+Less than 1000 EUR,Boolean
+Less than 1200 EUR,Boolean
+Less than 1500 EUR,Boolean
+Less than 2000 EUR,Boolean
+Suitable for students,Boolean
+Suitable only for one person,Boolean
+Suitable only for a couple,Boolean
+Suitable only for a a family,Boolean
+Room,Boolean
+Studio,Boolean
+Apartment,Boolean
+Flat,Boolean
+11 to 25 sq meters,Boolean
+25 to 50 sq meters,Boolean
+50 to 75 sq meters,Boolean
+more than 75 sq meters,Boolean
+Less than 5 years,Boolean
+Less than 10 years,Boolean
+Less than 20 years,Boolean
+Less than 50 years,Boolean
+Separated bathroom,Boolean
+Balcony,Boolean
+Garden,Boolean
+Pet is allowed,Boolean
+Has a parking,Boolean
+Near to city center,Boolean
+Near to a public bus station,Boolean
+Near to a train station,Boolean
+Near to a gym,Boolean
+Near to a church,Boolean
+Near to a mosque,Boolean
+Near to a shopping center,Boolean
+Near to a supermarket,Boolean

@@ -1,0 +1,1 @@
+ FeasibleSolutionsScores = [ ["Solution", "Score (%)", { role: "style" }],["MySQL Community Edition",100, "#3CB371"],["MySQL Standard Edition",100, "#1E90FF"],["MySQL Enterprise Edition",100, "#FF6347"],["Firebird (3.0.2)",100, "#EE82EE"],["H2 (1.1.107)",100, "#808000"],["HyperSQL Database Engine (2.3.4)",100, "#800000"]];

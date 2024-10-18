@@ -1,0 +1,585 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/x-icon" href="Image/icon.png" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Decision Studio</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700">
+    <link rel="stylesheet" href="Template/css/fontawesome.min.css">
+    <link rel="stylesheet" href="Template/css/bootstrap.min.css">
+    <link rel="stylesheet" href="Template/css/templatemo-style.css">
+    <script src="Template/js/jquery-3.3.1.min.js"></script>
+    <script src="Template/js/moment.min.js"></script>
+    <script src="Template/js/bootstrap.min.js"></script>
+
+    <title></title>
+
+    <style>
+
+        .DecisionModelsIcon {
+            font-size: 100pt;
+            color: dodgerblue;
+            background-color: white;
+            width: 200px;
+            border-radius: 10%;
+            box-shadow: 2px 2px 5px grey;
+        }
+
+        .DMInstanceIcon {
+            text-align: right;
+            font-size: 30pt;
+            color: dodgerblue;
+            width: 180px;
+            margin-top: -60px;
+        }
+
+        .DMInstanceImage {
+            background-color: white;
+            border-radius: 10%;
+            width: 200px;
+            height: 200px;
+            display: flex;
+            justify-content: center;
+            padding-top: 50px;
+            box-shadow: 2px 2px 5px grey;
+        }
+
+        .UI_Panel {
+            border: 2px solid #3C5168;
+            border-radius: 0px;
+            background-color: #51697D;
+            color: white;
+            margin-bottom: 20px;
+            padding: 12px;
+            font-size: small;
+            overflow: auto;
+            width: 100%;
+        }
+
+        ::-webkit-scrollbar-track {
+            -webkit-box-shadow: inset 0 0 10px rgba(0,0,0,0.3);
+            background-color: #3C5161;
+            overflow-x: auto;
+        }
+
+        ::-webkit-scrollbar {
+            width: 10px;
+            height: 10px;
+            background-color: #6D8CA3;
+            overflow-x: auto;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            -webkit-box-shadow: inset 0 0 9px rgba(0,0,0,.3);
+            background-color: #6D8CA3;
+            overflow-x: auto;
+        }
+
+
+        .select-wrapper {
+            margin: auto;
+            max-width: 600px;
+            width: calc(100% - 40px);
+        }
+
+        .select-pure__select {
+            align-items: center;
+            background: #51697D;
+            border: 3px solid #3C5161;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+            box-sizing: border-box;
+            color: #363b3e;
+            cursor: pointer;
+            display: flex;
+            font-size: small;
+            font-weight: 500;
+            text-align: left;
+            min-height: 44px;
+            padding: 5px 10px;
+            position: relative;
+            transition: 0.2s;
+            width: 100%;
+        }
+
+        .select-pure__options {
+            border-radius: 4px;
+            border: 1px solid rgba(0, 0, 0, 0.15);
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+            box-sizing: border-box;
+            color: white;
+            display: none;
+            left: 0;
+            max-height: 221px;
+            overflow-y: scroll;
+            position: absolute;
+            top: 50px;
+            width: 100%;
+            z-index: 5;
+        }
+
+        .select-pure__select--opened .select-pure__options {
+            display: block;
+        }
+
+        .select-pure__option {
+            background: #51697D;
+            border-bottom: 1px solid #e4e4e4;
+            box-sizing: border-box;
+            height: 44px;
+            line-height: 25px;
+            padding: 10px;
+        }
+
+        .select-pure__option--selected {
+            color: #e4e4e4;
+            cursor: initial;
+            pointer-events: none;
+        }
+
+        .select-pure__option--hidden {
+            display: none;
+        }
+
+        .select-pure__selected-label {
+            background: orange;
+            border-radius: 4px;
+            font-weight: bold;
+            color: white;
+            cursor: initial;
+            display: inline-block;
+            margin: 5px 10px 5px 0;
+            padding: 3px 7px;
+        }
+
+            .select-pure__selected-label:last-of-type {
+                margin-right: 0;
+            }
+
+            .select-pure__selected-label i {
+                cursor: pointer;
+                display: inline-block;
+                margin-left: 7px;
+            }
+
+                .select-pure__selected-label i:hover {
+                    color: #e4e4e4;
+                }
+
+        .select-pure__autocomplete {
+            background: #51697D;
+            border-bottom: 1px solid #e4e4e4;
+            border-left: none;
+            border-right: none;
+            border-top: none;
+            box-sizing: border-box;
+            font-size: 16px;
+            outline: none;
+            padding: 10px;
+            width: 100%;
+        }
+
+       .fullScreenMode {
+            position: fixed;
+            height: 100%;
+            width: 100%;
+            top: 0;
+            left: 0;
+            background: #3C5161;
+            z-index: 9999;
+            font-size: 30px;
+            text-align: left;
+            color: #fff;
+            background-image: url("Image/Processing.gif");
+            /* Full height */
+            height: 100%;
+            /* Center and scale the image nicely */
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            padding-top: 20%;
+            padding-left: 20px;
+        }
+
+        @media (min-width: 768px) {
+            .modal-xl {
+                width: 90%;
+                max-width: 1200px;
+            }
+        }
+
+        .modal-header {
+            padding: 2px 16px;
+            background-color: #455D6F;
+            color: white;
+        }
+
+        .modal-body {
+            background-color: #455D6F;
+            padding: 0px;
+            margin: 0px;
+        }
+
+        .modal-footer {
+            padding: 2px 16px;
+            background-color: #455D6F;
+            color: white;
+        }
+
+        /* HEARBEAT */
+        .heartbeat {
+            position: absolute;
+            display: none;
+            margin: 5px;
+            color: red;
+            right: 0;
+            top: 0;
+        }
+
+        .imageTeam {
+            border-width: 5px;
+            border-style: solid;
+            border-color: orange;
+            margin: 10px;
+            border-radius: 50%;
+        }
+
+        .DivTeam {
+            width: 100%;
+            text-align: center;
+        }
+    </style>
+</head>
+<body id="reportsPage">
+
+    <div id="cover" class="fullScreenMode" style="font-family: 'Courier New';">
+
+        <b>> Please wait...</b>
+    </div>
+
+    <div class="heartbeat">&hearts;</div>
+
+    <div class="" id="home">
+
+        <nav class="navbar navbar-expand-xl">
+            <div class="container h-100">
+                <a onclick="$('#cover').show();" class="navbar-brand" href="index.html">
+                    <h1 class="tm-site-title mb-0">Decision Studio</h1>
+                </a>
+                <button class="navbar-toggler ml-auto mr-0" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fas fa-bars tm-nav-icon"></i>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mx-auto h-100">
+
+                        <li class="nav-item">
+                            <a onclick="$('#cover').show();" class="nav-link" href="index.html">
+                                <i class="fas fa-home"></i>
+                                Home
+                                <span class="sr-only">(current)</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a onclick="$('#cover').show();" class="nav-link" href="Default.aspx">
+                                <i class="fas fa-sitemap"></i>
+                                Decision Models
+                                <span class="sr-only">(current)</span>
+                            </a>
+                        </li>
+                        <li class="nav-item dropdown">
+
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+                               aria-haspopup="true" aria-expanded="false">
+                                <i class="far fa-newspaper"></i>
+                                <span>
+                                    Benchmarks <i class="fas fa-angle-down"></i>
+                                </span>
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a onclick="$('#cover').show();" class="dropdown-item" href="DecisionModel.aspx?View=DBMSMODEL&PageCaption=Database Technologies">Database Technologies</a>
+                                <a onclick="$('#cover').show();" class="dropdown-item" href="DecisionModel.aspx?View=CSPMODEL&PageCaption=Cloud Service Providers">Cloud Service Providers</a>
+                                <a onclick="$('#cover').show();" class="dropdown-item" href="DecisionModel.aspx?View=BPMODEL&PageCaption=Blockchain Platforms">Blockchain Platforms</a>
+                                <a onclick="$('#cover').show();" class="dropdown-item" href="DecisionModel.aspx?View=SWAPMODEL&PageCaption=Architecture Patterns">Architecture Patterns</a>
+                                <a onclick="$('#cover').show();" class="dropdown-item" href="DecisionModel.aspx?View=PLMODEL&PageCaption=Programming Languages">Programming Languages</a>
+                                <a onclick="$('#cover').show();" class="dropdown-item" href="DecisionModel.aspx?View=MDDMODEL&PageCaption=MDD Platforms">MDD Platforms</a>
+                                <a onclick="$('#cover').show();" class="dropdown-item" href="DecisionModel.aspx?View=DAOMODEL&PageCaption=DAO Platforms">MDD Platforms</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+                               aria-haspopup="true" aria-expanded="false">
+                                <i class="fas fa-life-ring"></i>
+                                <span>
+                                    Help<i class="fas fa-angle-down"></i>
+                                </span>
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a onclick="$('#cover').show();" class="dropdown-item" href="Help.html?Section=Decision Model">Decision Model</a>
+                                <a onclick="$('#cover').show();" class="dropdown-item" href="Help.html?Section=Software Quality Model">Software Quality Model</a>
+                                <a onclick="$('#cover').show();" class="dropdown-item" href="Help.html?Section=Domain-Description">Domain-Description</a>
+                                <a onclick="$('#cover').show();" class="dropdown-item" href="Help.html?Section=Feature-Values">Feature-Values</a>
+                                <a class="dropdown-item" href="Help.html?Section=Features">Features</a>
+                                <a class="dropdown-item" href="Help.html?Section=Alternatives">Alternatives</a>
+                                <a class="dropdown-item" href="Help.html?Section=Mappings">Mappings</a>
+                                <a class="dropdown-item" href="Help.html?Section=MoSCoW">MoSCoW</a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " href="Publications.html">
+                                <i class="fas fa-book-open"></i>
+                                Publications
+                                <span class="sr-only">(current)</span>
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link active" href="DSSTeam.html">
+                                <i class="fas fa-users"></i>
+                                Our Team
+                                <span class="sr-only">(current)</span>
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="Login.aspx">
+                                <i class="fas fa-power-off"></i>
+                                Login
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <div style="text-align:justify; padding:10%; padding-top:5%; color:white;">
+
+            <div class="MainMenuItems" id="DSSTeam">
+                <div class="row" style="margin-bottom: 10px; margin-top: 10px;">
+                    <div class="col">
+                        <a href="#">
+
+                            <div>
+                                <div style="float: left; width: 50px; height: 50px; border-radius: 50%; background-color: orange; padding-top: 1px; color: black; font-weight: bold; text-align: center;">
+                                    <span style="font-size: xx-large;"><i class="fas fa-check"></i></span>
+                                </div>
+
+                                <div class="MainItemsSelection" style="float: left; width: 300px; height: 50px; padding-left: 10px; margin: 10px; padding-top: 0px; color: orange; font-weight: bold; font-size: x-large; text-align: left;">
+                                    <span class="MainItemsSelection">Executive Team</span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="DivTeam">
+                            <img src="studio/assets/img/sfa.jpg" alt="" class="imageTeam">
+                            <h6 style=""><a style="color:white;" href="http://siamakfarshidi.nl/" target="_blank">Siamak Farshidi</a></h6>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="DivTeam">
+                            <img src="studio/assets/img/sro.png" alt="" class="imageTeam">
+                            <h6><a style="color:white;" href="https://slingerjansen.nl" target="_blank">Slinger Jansen</a></h6>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="DivTeam">
+                            <img src="studio/assets/img/rjo.png" alt="" class="imageTeam">
+                            <h6><a style="color:white;" href="https://www.linkedin.com/in/rolfdejong/" target="_blank">Rolf de Jong</a></h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <br />
+            <br />
+            <br />
+            <br />
+
+            <div class="MainMenuItems">
+                <div class="row" style="margin-bottom: 10px; margin-top: 10px;">
+                    <div class="col">
+                        <a href="#">
+
+                            <div>
+                                <div style="float: left; width: 50px; height: 50px; border-radius: 50%; background-color: orange; padding-top: 1px; color: black; font-weight: bold; text-align: center;">
+                                    <span style="font-size: xx-large;"><i class="fas fa-check"></i></span>
+                                </div>
+
+                                <div class="MainItemsSelection" style="float: left; width: 300px; height: 50px; padding-left: 10px; margin: 10px; padding-top: 0px; color: orange; font-weight: bold; font-size: x-large; text-align: left;">
+                                    <span class="MainItemsSelection">DSS Team</span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="row">
+
+
+                    <div class="col-sm-4">
+                        <div class="DivTeam">
+                            <img src="studio/assets/img/Jacco.png" class="imageTeam" alt="">
+                            <h6><a style="color: white;" href="https://www.linkedin.com/in/jacco-verkleij-a03385105/" target="_blank">Jacco Verkleij</a></h6>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-4">
+                        <div class="DivTeam">
+                            <img src="studio/assets/img/elena.jpg" class="imageTeam" alt="">
+                            <h6><a style="color: white;" href="https://www.linkedin.com/in/elenabaninemeh/?originalSubdomain=ir" target="_blank">Elena Baninemeh</a></h6>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-4">
+                        <div class="DivTeam">
+                            <img src="studio/assets/img/Andrey.jpg" class="imageTeam" alt="">
+                            <h6><a style="color: white;" href="https://www.linkedin.com/in/andrey-krupskiy/?originalSubdomain=nl" target="_blank">Andrey Krupskiy</a></h6>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="DivTeam">
+                            <img src="studio/assets/img/Frank.jpg" class="imageTeam" alt="">
+                            <h6><a style="color: white;" href="https://www.linkedin.com/in/frank-van-hunnik-27072a75/" target="_blank">Frank van Hunnik</a></h6>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="DivTeam">
+                            <img src="studio/assets/img/Baharak.jpg" class="imageTeam" alt="">
+                            <h6><a style="color: white;" href="https://www.linkedin.com/in/baharak-bakhtiari-aaa7b754/" target="_blank">Baharak Bakhtiari</a></h6>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-4">
+                        <div class="DivTeam">
+                            <img src="studio/assets/img/Mattias.jpg" class="imageTeam" alt="">
+                            <h6><a style="color: white;" href="https://www.linkedin.com/in/matthias-van-enk-00a40515b/" target="_blank">Matthias van Enk</a></h6>
+                        </div>
+                    </div>
+                    
+
+                    <div class="col-sm-4">
+                        <div class="DivTeam">
+                            <img src="studio/assets/img/Mahdi.png" class="imageTeam" alt="">
+                            <h6><a style="color: white;" href="https://www.linkedin.com/in/mahdi-deldar-859a11163/" target="_blank">Mahdi Deldar</a></h6>
+                        </div>
+                    </div>
+
+
+                </div>
+
+            </div>
+
+            <br />
+            <br />
+
+        </div>
+        <div class="modal fade" id="MessageBox" role="dialog">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h4 class="modal-title" style="color: orange; font-weight: bold;" id="MessageTitle">Title</h4>
+                        <button type="button" class="close" data-dismiss="modal" style="color: red;" title="Close">&times;</button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        <br />
+                        <div style="text-align: left; color: white;" id="MessageText">
+                            text...
+                        </div>
+                        <br />
+                    </div>
+
+                    <!-- Modal footer -->
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-primary btn-block text-uppercase" style="width: 100px; margin: 10px;" data-dismiss="modal">Ok</button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+        <footer class="tm-footer row tm-mt-small">
+            <div class="col-12 font-weight-light">
+                <p class="text-center text-white mb-0 px-4 small">
+
+                    <img src="Image/UU.png" style="width: 120px;" />
+                    <br />
+                    <a rel="nofollow noopener" href="http://amuse-project.org" target="_blank" class="tm-footer-link"><b>AMUSE PROJECT</b></a>
+                </p>
+            </div>
+        </footer>
+    </div>
+    <script>
+        $(window).on('load', function () {
+            $("#cover").fadeOut(200);
+        });
+
+        function newW() {
+            $(window).load();
+        }
+        setTimeout(newW, 1000);
+
+
+        //---------------------------------------------------- Message box
+        function showMessageBox(title, body) {
+            document.getElementById("MessageTitle").innerText = title;
+            document.getElementById("MessageText").innerHTML = body;
+
+            $(document).ready(function () {
+                $('#MessageBox').modal('show');
+            });
+        }
+
+
+        // beat the heart
+        // 'times' (int): nr of times to beat
+        function beatHeart(times) {
+            var interval = setInterval(function () {
+                $(".heartbeat").fadeIn(500, function () {
+                    $(".heartbeat").fadeOut(500);
+                });
+            }, 1000); // beat every second
+
+            // after n times, let's clear the interval (adding 100ms of safe gap)
+            setTimeout(function () { clearInterval(interval); }, (1000 * times) + 100);
+        }
+
+        $(function () {
+
+
+            // just keeping beating 2 times, each 3 seconds
+            setInterval(function () { beatHeart(2); }, 3000);
+
+        });
+
+
+        function setHeartbeat() {
+            setTimeout("heartbeat()", 300000); // every 5 min
+        }
+
+        function heartbeat() {
+            $.get(
+                "GenericHandlers/SessionHeartbeat.ashx",
+                null,
+                function (data) {
+                    //$("#heartbeat").show().fadeOut(1000); // just a little "red flash" in the corner :)
+                    setHeartbeat();
+                },
+                "json"
+            );
+        }
+
+        beatHeart(2);
+    </script>
+</body>
+
+</html>

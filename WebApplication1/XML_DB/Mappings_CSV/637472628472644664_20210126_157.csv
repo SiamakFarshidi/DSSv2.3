@@ -1,0 +1,68 @@
+[Grouping],Order,UpperLevel
+Self-assessment option,Self-assessment,NULL
+Obtain certification,ESEA method specification,NULL
+Certification,ESEA method specification,Obtain certification
+Score,ESEA results,Obtain certification
+Results can be published,ESEA results,Obtain certification
+Indicators,ESEA method specification,NULL
+Predefined indicators,ESEA method specification,Indicators
+Extendable with indicators,ESEA method specification,Indicators
+Question/indicator explanation,ESEA support,Indicators
+Tool support,ESEA ICT support,NULL
+Official tool support,ESEA ICT support,Tool support
+Offline tool,ESEA ICT support,Tool support
+Online tool,ESEA ICT support,Tool support
+Whistle blowing mechanism,ESEA ICT support,Tool support
+Built-in survey tool,ESEA ICT support,Tool support
+Infographic generation,ESEA ICT support,Tool support
+Network tool (connect organisations),ESEA ICT support,Tool support
+Many users in one account,ESEA ICT support,Tool support
+Tool is continuously improved,ESEA ICT support,Tool support
+Audit,ESEA results,NULL
+Internal validation,ESEA results,Audit
+Peer review,ESEA results,Audit
+External audit,ESEA results,Audit
+Network,Network of organisations,NULL
+Existence of network,Network of organisations,Network
+Democratic method development,Network of organisations,Network
+Method is continuously improved,Network of organisations,Network
+Input from the community,Network of organisations,Network
+Local network groups,Network of organisations,Network
+Network specific events,Network of organisations,Network
+Helpdesk,ESEA support,Network
+Training material,ESEA support,Network
+Visualisation mechanisms,ESEA results,NULL
+Online directory,ESEA results,Visualisation mechanisms
+Map,ESEA results,Visualisation mechanisms
+Official label/logo for members,ESEA results,Visualisation mechanisms
+Newsletter,Network of organisations,Visualisation mechanisms
+Completeness,ESEA method specification,NULL
+Social topics,ESEA method specification,Completeness
+Environmental topics,ESEA method specification,Completeness
+Identify improvement areas,Improvement planning,NULL
+Support SIP,Improvement planning,Identify improvement areas
+Suggested goals,Improvement planning,Identify improvement areas
+Ideas for improvements,Improvement planning,Identify improvement areas
+Enter social market,Social market,NULL
+Existence of social market,Social market,Enter social market
+Discount from members,Social market,Enter social market
+SDGs,Alignment with SDGs,NULL
+Mapping to SDGs,Alignment with SDGs,SDGs
+Workshop/webinar on SDGs,Alignment with SDGs,SDGs
+Benchmarking,ESEA results,NULL
+Existence of aggregated report,ESEA results,Benchmarking
+Comparing results within network,ESEA results,Benchmarking
+Featured press,Method/network reputation,NULL
+Serious blogs (medium[comma] network website[comma] etc.),Method/network reputation,Featured press
+Major newspapers (local),Method/network reputation,Featured press
+Reputation/credibility,Method/network reputation,NULL
+Expelling members,Method/network reputation,Reputation/credibility
+Commitment statement,Method/network reputation,Reputation/credibility
+Public manuals,Method/network reputation,Reputation/credibility
+Mentioned in scientific papers,Method/network reputation,Reputation/credibility
+Method flexibility,Method/network reputation,NULL
+Tool or method adapts to organisational characteristics (e.g. size or industry),ESEA method specification,Method flexibility
+Principle based,ESEA method specification,Method flexibility
+Qualitive analysis,Qualitive analysis,NULL
+Popularity in the market,Qualitive analysis,NULL
+Network maturity,Qualitive analysis,NULL

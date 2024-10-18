@@ -1,0 +1,1433 @@
+<DecisionTree>
+  <node ID="636170012124150646" Title="Case Study 3" DataType="Number" Level="Domain" Description="" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="">
+    <link Parent="636170012124150646" Value="1" Active="T" />
+  </node>
+  <node ID="637792444395825163" Title="QA:Expressiveness" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.114455341185558" Active="T" />
+  </node>
+  <node ID="637792444395905146" Title="QA:Arbitrariness" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.0301996514070944" Active="T" />
+  </node>
+  <node ID="637792444396015197" Title="QA:Formality" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.031442255373973" Active="T" />
+  </node>
+  <node ID="637792444396095141" Title="QA:Suitability" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.0314296835005728" Active="T" />
+  </node>
+  <node ID="637792444396195141" Title="QA:Understandability" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.0214099004005902" Active="T" />
+  </node>
+  <node ID="637792444396265142" Title="QA:Completeness" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.0829995081883126" Active="T" />
+  </node>
+  <node ID="637792444396355136" Title="QA:Efficiency" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.0440141287742021" Active="T" />
+  </node>
+  <node ID="637792444396445154" Title="QA:Effectiveness (scope)" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.0213857624036618" Active="T" />
+  </node>
+  <node ID="637792444396545663" Title="QA:Complexity" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.0201160031902386" Active="T" />
+  </node>
+  <node ID="637792444396645175" Title="QA:Ease of Use" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.0113649735538071" Active="T" />
+  </node>
+  <node ID="637792444396735147" Title="QA:Flexibility/Modularity" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.0100710763434555" Active="T" />
+  </node>
+  <node ID="637792444396835500" Title="QA:Portability/Compatability" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.0628719388745458" Active="T" />
+  </node>
+  <node ID="637792444396915587" Title="QA:Tool support" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.0440141287742021" Active="T" />
+  </node>
+  <node ID="637792444397007376" Title="QA:Learnability" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.01262216089383" Active="T" />
+  </node>
+  <node ID="637792444397087482" Title="QA:Maturity" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.0540967712411859" Active="T" />
+  </node>
+  <node ID="637792444397188085" Title="QA:Enactability" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.0829743644415122" Active="T" />
+  </node>
+  <node ID="637792444397267480" Title="QA:Innovation Inducer" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.0327381640840686" Active="T" />
+  </node>
+  <node ID="637792444397377510" Title="QA:Reusability" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.0326994427139959" Active="T" />
+  </node>
+  <node ID="637792444397477531" Title="QA:(Implementation)Cost" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.0452713161142251" Active="T" />
+  </node>
+  <node ID="637792444397559526" Title="QA:Scalability" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.0100585044700553" Active="T" />
+  </node>
+  <node ID="637792444397679645" Title="QA:Adaptability" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.0327120145873962" Active="T" />
+  </node>
+  <node ID="637792444397760055" Title="QA:Replaceability" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.0829995081883126" Active="T" />
+  </node>
+  <node ID="637792444397863215" Title="QA:Granularity" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.0100574987201833" Active="T" />
+  </node>
+  <node ID="637792444397943786" Title="QA:Support" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.0138542044870525" Active="T" />
+  </node>
+  <node ID="637792444398045014" Title="QA:Positioning and Strength" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="0.064141698087969" Active="T" />
+  </node>
+  <node ID="637792444398145005" Title="[Definition]" DataType="Numeric" Level="Subcharacteristic" Description="(----------New Subcharacteristic--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792447225526762" Value="1" Active="T" />
+  </node>
+  <node ID="637792444398226480" Title="Communication" DataType="Boolean" Level="Feature" Description="Whether the technique facilitates understanding[COMMA] communicating or describing a process" Req="C" Order="Breadth: goal support" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="0.00218114575907244" Active="T" />
+    <link Parent="637792444396195141" Value="0.00218114575907244" Active="T" />
+    <link Parent="637792444396445154" Value="0.00218114575907244" Active="T" />
+    <link Parent="637792444396645175" Value="0.00218114575907244" Active="T" />
+    <link Parent="637792444397007376" Value="0.00218114575907244" Active="T" />
+    <link Parent="637792444397267480" Value="0.00218114575907244" Active="T" />
+    <link Parent="637792444397679645" Value="0.00218114575907244" Active="T" />
+  </node>
+  <node ID="637792444399004101" Title="Analysis" DataType="Boolean" Level="Feature" Description="Whether the technique facilitates the analyzing (and improving) of a process" Req="N" Order="Breadth: goal support" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444396445154" Value="1" Active="T" />
+    <link Parent="637792444397267480" Value="1" Active="T" />
+    <link Parent="637792444397679645" Value="1" Active="T" />
+  </node>
+  <node ID="637792444399416121" Title="Enaction" DataType="Boolean" Level="Feature" Description="Whether the technique facilitates the execution of a process[COMMA] and/or is generally used with the aim of creating executable models" Req="M" Order="Breadth: goal support" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444396445154" Value="1" Active="T" />
+    <link Parent="637792444397188085" Value="1" Active="T" />
+    <link Parent="637792444397679645" Value="1" Active="T" />
+    <link Parent="637792444398045014" Value="1" Active="T" />
+  </node>
+  <node ID="637792444399946113" Title="Control" DataType="Boolean" Level="Feature" Description="Whether the technique facilitates the and/or is generally used for the managing and monitoring of a process" Req="S" Order="Breadth: goal support" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="0.0794879729160857" Active="T" />
+    <link Parent="637792444396445154" Value="0.0794879729160857" Active="T" />
+    <link Parent="637792444397679645" Value="0.0794879729160857" Active="T" />
+  </node>
+  <node ID="637792444400316493" Title="Functional" DataType="Boolean" Level="Feature" Description="What process elements / Functional dependencies between process elements (activities[COMMA] subprocesses[COMMA] etcetera)" Req="M" Order="Depth: view support" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444396265142" Value="1" Active="T" />
+    <link Parent="637792444397377510" Value="1" Active="T" />
+    <link Parent="637792444397679645" Value="1" Active="T" />
+  </node>
+  <node ID="637792444400816183" Title="Dynamic/Behavioural" DataType="Boolean" Level="Feature" Description="When and how activities are performed" Req="M" Order="Depth: view support" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444396265142" Value="1" Active="T" />
+    <link Parent="637792444397188085" Value="1" Active="T" />
+    <link Parent="637792444397377510" Value="1" Active="T" />
+    <link Parent="637792444397679645" Value="1" Active="T" />
+  </node>
+  <node ID="637792444401486130" Title="Informational/Resource" DataType="Boolean" Level="Feature" Description="Data (entities) produced or manipulated by a process[COMMA] and their relationships. In other words[COMMA] the structure of informational entities" Req="N" Order="Depth: view support" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444396265142" Value="1" Active="T" />
+    <link Parent="637792444397188085" Value="1" Active="T" />
+    <link Parent="637792444397377510" Value="1" Active="T" />
+    <link Parent="637792444397679645" Value="1" Active="T" />
+  </node>
+  <node ID="637792444402056117" Title="Organizational" DataType="Boolean" Level="Feature" Description="Where and by whom activities are performed[COMMA] both functionally and physically." Req="S" Order="Depth: view support" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="0.121397627768981" Active="T" />
+    <link Parent="637792444396265142" Value="0.121397627768981" Active="T" />
+    <link Parent="637792444397377510" Value="0.121397627768981" Active="T" />
+    <link Parent="637792444397679645" Value="0.121397627768981" Active="T" />
+  </node>
+  <node ID="637792444402476144" Title="General-purpose ML" DataType="Boolean" Level="Feature" Description="Language is designed to be used for modeling the widest variety of application domains" Req="C" Order="Fit: domain support" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="0.0025575957038627" Active="T" />
+    <link Parent="637792444395905146" Value="0.0025575957038627" Active="T" />
+    <link Parent="637792444396645175" Value="0.0025575957038627" Active="T" />
+    <link Parent="637792444396735147" Value="0.0025575957038627" Active="T" />
+    <link Parent="637792444397007376" Value="0.0025575957038627" Active="T" />
+    <link Parent="637792444397267480" Value="0.0025575957038627" Active="T" />
+    <link Parent="637792444397377510" Value="0.0025575957038627" Active="T" />
+    <link Parent="637792444397679645" Value="0.0025575957038627" Active="T" />
+    <link Parent="637792444397760055" Value="0.0025575957038627" Active="T" />
+  </node>
+  <node ID="637792444403264949" Title="Textual" DataType="Boolean" Level="Feature" Description="The language notation is textual" Req="N" Order="Serialization format" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395905146" Value="1" Active="T" />
+    <link Parent="637792444396355136" Value="1" Active="T" />
+    <link Parent="637792444396545663" Value="1" Active="T" />
+    <link Parent="637792444397007376" Value="1" Active="T" />
+  </node>
+  <node ID="637792444403645150" Title="Graphical/Diagrammical" DataType="Boolean" Level="Feature" Description="The language notation is graphical" Req="C" Order="Serialization format" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395905146" Value="0.00186734547272936" Active="T" />
+    <link Parent="637792444396195141" Value="0.00186734547272936" Active="T" />
+    <link Parent="637792444396355136" Value="0.00186734547272936" Active="T" />
+    <link Parent="637792444396645175" Value="0.00186734547272936" Active="T" />
+    <link Parent="637792444397007376" Value="0.00186734547272936" Active="T" />
+    <link Parent="637792444397267480" Value="0.00186734547272936" Active="T" />
+  </node>
+  <node ID="637792444404197072" Title="Tabular" DataType="Boolean" Level="Feature" Description="Textual but with predefined tabular structure (often for natural language description of processes)." Req="N" Order="Serialization format" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396355136" Value="1" Active="T" />
+    <link Parent="637792444397377510" Value="1" Active="T" />
+  </node>
+  <node ID="637792444404447087" Title="Mathematical" DataType="Boolean" Level="Feature" Description="Graphical highly formal semtantics based on formal logic. Modeling requires knowledge about math and/or logic." Req="S" Order="Serialization format" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396015197" Value="0.0839283655173497" Active="T" />
+    <link Parent="637792444396095141" Value="0.0839283655173497" Active="T" />
+    <link Parent="637792444397188085" Value="0.0839283655173497" Active="T" />
+    <link Parent="637792444397377510" Value="0.0839283655173497" Active="T" />
+  </node>
+  <node ID="637792444404937807" Title="Imperative" DataType="Boolean" Level="Feature" Description="Whether the language allows for for imperative modeling: Procedural. Processes with a clear start and clear end (state). E.g. workflows." Req="M" Order="Paradigm" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396015197" Value="1" Active="T" />
+    <link Parent="637792444396195141" Value="1" Active="T" />
+    <link Parent="637792444396355136" Value="1" Active="T" />
+    <link Parent="637792444396445154" Value="1" Active="T" />
+    <link Parent="637792444397863215" Value="1" Active="T" />
+  </node>
+  <node ID="637792444405400598" Title="Declarative" DataType="Boolean" Level="Feature" Description="Whether the language allows for declarative modeling: Knowledge intensive[COMMA] no clear start to end and many variatons possible (variations not all known in advance). For declarative approaches you define the boundaries and anything within the boundaries is possible." Req="W" Order="Paradigm" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395905146" Value="0.0001" Active="T" />
+    <link Parent="637792444396445154" Value="0.0001" Active="T" />
+    <link Parent="637792444396735147" Value="0.0001" Active="T" />
+    <link Parent="637792444397559526" Value="0.0001" Active="T" />
+  </node>
+  <node ID="637792444405790713" Title="Control flow/Sequence" DataType="Boolean" Level="Feature" Description="Whether the language allows for the modeling of an order in which tasks are to be executed. In other words[COMMA] whether the language includes a concept of time" Req="M" Order="Expressiveness" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444396265142" Value="1" Active="T" />
+    <link Parent="637792444397188085" Value="1" Active="T" />
+  </node>
+  <node ID="637792444406132675" Title="Information flow/Message flow" DataType="Boolean" Level="Feature" Description="Whether the messages and their flow can be modeled" Req="C" Order="Expressiveness" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="0.00201738081645979" Active="T" />
+    <link Parent="637792444396265142" Value="0.00201738081645979" Active="T" />
+  </node>
+  <node ID="637792444406412653" Title="Data flow" DataType="Boolean" Level="Feature" Description="Whether the language explicitly allows for the modeling of the flow of data" Req="M" Order="Expressiveness" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444396265142" Value="1" Active="T" />
+    <link Parent="637792444397188085" Value="1" Active="T" />
+  </node>
+  <node ID="637792444406752226" Title="Inclusive choice (OR)" DataType="Boolean" Level="Feature" Description="Whether the language contains the OR construct" Req="N" Order="Expressiveness" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444395905146" Value="1" Active="T" />
+    <link Parent="637792444396265142" Value="1" Active="T" />
+    <link Parent="637792444397267480" Value="1" Active="T" />
+  </node>
+  <node ID="637792444407222160" Title="Exclusive choice (XOR)" DataType="Boolean" Level="Feature" Description="Whether the language contains the XOR construct" Req="M" Order="Expressiveness" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444395905146" Value="1" Active="T" />
+    <link Parent="637792444396265142" Value="1" Active="T" />
+  </node>
+  <node ID="637792444407556418" Title="Parallelism (AND)" DataType="Boolean" Level="Feature" Description="Whether the language contains the AND construct[COMMA] e.g. Flowchart does not have this" Req="N" Order="Expressiveness" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444395905146" Value="1" Active="T" />
+    <link Parent="637792444396265142" Value="1" Active="T" />
+    <link Parent="637792444397267480" Value="1" Active="T" />
+  </node>
+  <node ID="637792444408009742" Title="Input" DataType="Boolean" Level="Feature" Description="Whether the language allows for the modeling process input. Typically[COMMA] these are resources referenced and/or consumed by activities/tasks/functions" Req="C" Order="Expressiveness" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="0.00212627754482603" Active="T" />
+    <link Parent="637792444396265142" Value="0.00212627754482603" Active="T" />
+    <link Parent="637792444397267480" Value="0.00212627754482603" Active="T" />
+  </node>
+  <node ID="637792444408379801" Title="Output" DataType="Boolean" Level="Feature" Description="Whether the language allows for the modeling of deliverables or output[COMMA] e.g. the creation of a document" Req="N" Order="Expressiveness" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444396265142" Value="1" Active="T" />
+    <link Parent="637792444397267480" Value="1" Active="T" />
+  </node>
+  <node ID="637792444408739670" Title="External entities" DataType="Boolean" Level="Feature" Description="Whether the language allows for the explicit modeling of external entities that perform a certain process element" Req="M" Order="Expressiveness" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444396265142" Value="1" Active="T" />
+    <link Parent="637792444397267480" Value="1" Active="T" />
+    <link Parent="637792444397559526" Value="1" Active="T" />
+  </node>
+  <node ID="637792444409199329" Title="Agent (Roles/Entitites)" DataType="Boolean" Level="Feature" Description="Whether the language allows for the explicit modeling of actors[COMMA] roles and organizational units that perform a certain process element. An entity is a definable thing[COMMA] such as a person object concept or event[COMMA] that can have data stored about it" Req="S" Order="Expressiveness" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="0.106878699255976" Active="T" />
+    <link Parent="637792444396265142" Value="0.106878699255976" Active="T" />
+    <link Parent="637792444397267480" Value="0.106878699255976" Active="T" />
+  </node>
+  <node ID="637792444409559255" Title="Duration" DataType="Boolean" Level="Feature" Description="Whether there is a construct to depict duration[COMMA] represent a time span[COMMA] the passage of time[COMMA] or a specific point in time (e.g. a day of the week)" Req="N" Order="Expressiveness" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444396265142" Value="1" Active="T" />
+    <link Parent="637792444397188085" Value="1" Active="T" />
+    <link Parent="637792444397267480" Value="1" Active="T" />
+  </node>
+  <node ID="637792444410009265" Title="Deadline" DataType="Boolean" Level="Feature" Description="Whether there is a construct to depict the time period within activities or tasks have to be carried out" Req="N" Order="Expressiveness" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444396265142" Value="1" Active="T" />
+    <link Parent="637792444397267480" Value="1" Active="T" />
+  </node>
+  <node ID="637792444410408905" Title="Business rules" DataType="Boolean" Level="Feature" Description="Whether language allows for the modeling of business rules" Req="N" Order="Expressiveness" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444396265142" Value="1" Active="T" />
+    <link Parent="637792444397267480" Value="1" Active="T" />
+  </node>
+  <node ID="637792444410752360" Title="Business goals" DataType="Boolean" Level="Feature" Description="Whether language allows for the explicit modeling of business goals (note: a final state is not considered a process goal for this feature)" Req="N" Order="Expressiveness" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444396265142" Value="1" Active="T" />
+    <link Parent="637792444397267480" Value="1" Active="T" />
+  </node>
+  <node ID="637792444411182406" Title="Annotation" DataType="Boolean" Level="Feature" Description="Whether language allows for textual annotation in addition the graphical representation of a process. Textual annotation can be used to provide additional details about a process element[COMMA] that otherwise could not be depicted." Req="N" Order="Expressiveness" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444395905146" Value="1" Active="T" />
+    <link Parent="637792444396195141" Value="1" Active="T" />
+    <link Parent="637792444396265142" Value="1" Active="T" />
+    <link Parent="637792444396645175" Value="1" Active="T" />
+    <link Parent="637792444397007376" Value="1" Active="T" />
+  </node>
+  <node ID="637792444411802851" Title="Task/Activity" DataType="Boolean" Level="Feature" Description="Whether the language has a &quot;&quot;task&quot;&quot; or &quot;&quot;activity&quot;&quot; construct " Req="M" Order="Expressiveness" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444396265142" Value="1" Active="T" />
+    <link Parent="637792444397188085" Value="1" Active="T" />
+    <link Parent="637792444397267480" Value="1" Active="T" />
+  </node>
+  <node ID="637792444412262813" Title="Event/Trigger" DataType="Boolean" Level="Feature" Description="Whether the language has an &quot;&quot;event&quot;&quot; construct. An event is an occurance that takes place at a specific point in time[COMMA] and that is capable of inducing some behaviour (e.g. acitivity or process)" Req="M" Order="Expressiveness" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444396265142" Value="1" Active="T" />
+    <link Parent="637792444397188085" Value="1" Active="T" />
+    <link Parent="637792444397267480" Value="1" Active="T" />
+  </node>
+  <node ID="637792444412702786" Title="Mappability" DataType="Boolean" Level="Feature" Description="Whether the language has a formal specification for mapping to an Executable Business Process (Modeling) Language" Req="S" Order="Portability" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396355136" Value="0.128631729207295" Active="T" />
+    <link Parent="637792444396835500" Value="0.128631729207295" Active="T" />
+    <link Parent="637792444396915587" Value="0.128631729207295" Active="T" />
+    <link Parent="637792444397188085" Value="0.128631729207295" Active="T" />
+    <link Parent="637792444397477531" Value="0.128631729207295" Active="T" />
+  </node>
+  <node ID="637792444413232420" Title="Standardized file format" DataType="Boolean" Level="Feature" Description="Whether the language has a standard file format specified" Req="M" Order="Portability" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396735147" Value="1" Active="T" />
+    <link Parent="637792444396835500" Value="1" Active="T" />
+    <link Parent="637792444396915587" Value="1" Active="T" />
+    <link Parent="637792444397087482" Value="1" Active="T" />
+    <link Parent="637792444397188085" Value="1" Active="T" />
+    <link Parent="637792444397477531" Value="1" Active="T" />
+    <link Parent="637792444397760055" Value="1" Active="T" />
+    <link Parent="637792444398045014" Value="1" Active="T" />
+  </node>
+  <node ID="637792444414132791" Title="XML" DataType="Boolean" Level="Feature" Description="Extensible Markup Language: a set of codes or tags that describes the text in a digital document. More broad than XSD and XMI" Req="N" Order="Portability" UpperLevel="Standardized file format" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396015197" Value="1" Active="T" />
+    <link Parent="637792444396835500" Value="1" Active="T" />
+    <link Parent="637792444397760055" Value="1" Active="T" />
+  </node>
+  <node ID="637792444414510682" Title="PNML" DataType="Boolean" Level="Feature" Description="Petri Net Markup Language[COMMA] XML-based interchange format for Petri Net files" Req="M" Order="Portability" UpperLevel="Standardized file format" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396835500" Value="1" Active="T" />
+    <link Parent="637792444397760055" Value="1" Active="T" />
+  </node>
+  <node ID="637792444414830726" Title="XSD (XML Schema Definition)" DataType="Boolean" Level="Feature" Description="Defines what elements and attributes may appear in XML document" Req="M" Order="Portability" UpperLevel="Standardized file format" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396015197" Value="1" Active="T" />
+    <link Parent="637792444396835500" Value="1" Active="T" />
+    <link Parent="637792444397760055" Value="1" Active="T" />
+  </node>
+  <node ID="637792444415200737" Title="XMI (XML Metadata Interchange)" DataType="Boolean" Level="Feature" Description="File format used to store model design information in standard XML format" Req="N" Order="Portability" UpperLevel="Standardized file format" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396835500" Value="1" Active="T" />
+    <link Parent="637792444397760055" Value="1" Active="T" />
+  </node>
+  <node ID="637792444415491093" Title="yawl-XML" DataType="Boolean" Level="Feature" Description="YAWL-XML[COMMA] file format specifically used for yawl files" Req="N" Order="Portability" UpperLevel="Standardized file format" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396835500" Value="1" Active="T" />
+    <link Parent="637792444397760055" Value="1" Active="T" />
+  </node>
+  <node ID="637792444415781297" Title="EPML" DataType="Boolean" Level="Feature" Description="EPC Markup Language[COMMA] neutral interchange format that facilitates interchange of EPC business process models" Req="M" Order="Portability" UpperLevel="Standardized file format" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396835500" Value="1" Active="T" />
+    <link Parent="637792444397760055" Value="1" Active="T" />
+  </node>
+  <node ID="637792444416130700" Title="Execution Engine Availability" DataType="Boolean" Level="Feature" Description="Whether there are any Execution Engines available that support the (automatic) simulation of the models of a given language" Req="N" Order="Enactability" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396355136" Value="1" Active="T" />
+    <link Parent="637792444396915587" Value="1" Active="T" />
+    <link Parent="637792444397087482" Value="1" Active="T" />
+    <link Parent="637792444397188085" Value="1" Active="T" />
+    <link Parent="637792444398045014" Value="1" Active="T" />
+  </node>
+  <node ID="637792444416690677" Title="Simulation support" DataType="Boolean" Level="Feature" Description="Whether the language allows for simulation (enaction of the model)" Req="N" Order="Enactability" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444396445154" Value="1" Active="T" />
+    <link Parent="637792444397188085" Value="1" Active="T" />
+    <link Parent="637792444397267480" Value="1" Active="T" />
+  </node>
+  <node ID="637792444417221101" Title="Verification support" DataType="Boolean" Level="Feature" Description="Whether the language allows for qualitative analysis[COMMA] e.g. The detecting of deadlocks[COMMA] races[COMMA] etcetera" Req="N" Order="Enactability" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396445154" Value="1" Active="T" />
+    <link Parent="637792444397188085" Value="1" Active="T" />
+    <link Parent="637792444397267480" Value="1" Active="T" />
+  </node>
+  <node ID="637792444417571109" Title="True concurrency" DataType="Boolean" Level="Feature" Description="Whether the language allows for true-parallelism[COMMA] explicitly representing steps that can be performed by different workers." Req="W" Order="Enactability" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="0.0001" Active="T" />
+    <link Parent="637792444395905146" Value="0.0001" Active="T" />
+    <link Parent="637792444396545663" Value="0.0001" Active="T" />
+    <link Parent="637792444397267480" Value="0.0001" Active="T" />
+  </node>
+  <node ID="637792444418001106" Title="System Interpretation" DataType="Boolean" Level="Feature" Description="Whether the output model of the language is to be used or interpreted by systems" Req="M" Order="Enactability" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444396015197" Value="1" Active="T" />
+    <link Parent="637792444396095141" Value="1" Active="T" />
+    <link Parent="637792444396545663" Value="1" Active="T" />
+    <link Parent="637792444397188085" Value="1" Active="T" />
+  </node>
+  <node ID="637792444418560711" Title="Decomposition" DataType="Boolean" Level="Feature" Description="Whether the language allows for decomposition / process nesting" Req="N" Order="Granularity" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444395905146" Value="1" Active="T" />
+    <link Parent="637792444396195141" Value="1" Active="T" />
+    <link Parent="637792444396265142" Value="1" Active="T" />
+    <link Parent="637792444396355136" Value="1" Active="T" />
+    <link Parent="637792444396645175" Value="1" Active="T" />
+    <link Parent="637792444396735147" Value="1" Active="T" />
+    <link Parent="637792444397267480" Value="1" Active="T" />
+    <link Parent="637792444397559526" Value="1" Active="T" />
+    <link Parent="637792444397863215" Value="1" Active="T" />
+  </node>
+  <node ID="637792444419550695" Title="High-level support" DataType="Boolean" Level="Feature" Description="Whether the language allows for high-level modeling (top-down approach)" Req="N" Order="Granularity" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395905146" Value="1" Active="T" />
+    <link Parent="637792444396195141" Value="1" Active="T" />
+    <link Parent="637792444397559526" Value="1" Active="T" />
+  </node>
+  <node ID="637792444419890706" Title="Low-level support" DataType="Boolean" Level="Feature" Description="Whether the language allows for low-level modeling (bottom-up approach) with detailed descriptions of atomic activities" Req="N" Order="Granularity" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395905146" Value="1" Active="T" />
+    <link Parent="637792444397559526" Value="1" Active="T" />
+    <link Parent="637792444397863215" Value="1" Active="T" />
+  </node>
+  <node ID="637792444420241106" Title="State-based" DataType="Boolean" Level="Feature" Description="Whether the modeling language allows for modeling of state-based models" Req="N" Order="State vs Activity" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444396095141" Value="1" Active="T" />
+    <link Parent="637792444397377510" Value="1" Active="T" />
+  </node>
+  <node ID="637792444420640709" Title="Activity-based" DataType="Boolean" Level="Feature" Description="Whether the language allows for the modeling of activity/task-based models" Req="M" Order="State vs Activity" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444395905146" Value="1" Active="T" />
+    <link Parent="637792444396095141" Value="1" Active="T" />
+    <link Parent="637792444397377510" Value="1" Active="T" />
+  </node>
+  <node ID="637792444421104649" Title="Novice" DataType="Boolean" Level="Feature" Description="Whether the language is generally perceived as being suitable/understandable for/by novice modelers" Req="N" Order="Modeler/Audience" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396195141" Value="1" Active="T" />
+    <link Parent="637792444396355136" Value="1" Active="T" />
+    <link Parent="637792444396645175" Value="1" Active="T" />
+    <link Parent="637792444397007376" Value="1" Active="T" />
+  </node>
+  <node ID="637792444421575072" Title="Expert" DataType="Boolean" Level="Feature" Description="Whether the language is generally perceived as being suitable/understandable for/by or tailored to experts or well-experienced modelers" Req="M" Order="Modeler/Audience" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396095141" Value="1" Active="T" />
+    <link Parent="637792444396545663" Value="1" Active="T" />
+  </node>
+  <node ID="637792444421864668" Title="Graphical economy" DataType="Numeric" Level="Feature" Description="The degree of the number of unique graphical symbols the language has (Note: The assumption is made that a higher amount results in lower understandability[COMMA] but higher expressiveness). Featured not applicable (=0) to textual process modeling languages." Req="N" Order="Syntax" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395825163" Value="1" Active="T" />
+    <link Parent="637792444395905146" Value="1" Active="T" />
+    <link Parent="637792444396195141" Value="1" Active="T" />
+    <link Parent="637792444396545663" Value="1" Active="T" />
+    <link Parent="637792444396645175" Value="1" Active="T" />
+    <link Parent="637792444396735147" Value="1" Active="T" />
+    <link Parent="637792444397007376" Value="1" Active="T" />
+    <link Parent="637792444397267480" Value="1" Active="T" />
+    <link Parent="637792444397559526" Value="1" Active="T" />
+    <link Parent="637792444397863215" Value="1" Active="T" />
+  </node>
+  <node ID="637792444422875032" Title="Visual emphasis: colour" DataType="Boolean" Level="Feature" Description="Whether the language uses color as additional differentiating factor for the notation of elements" Req="N" Order="Syntax" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396195141" Value="1" Active="T" />
+    <link Parent="637792444396645175" Value="1" Active="T" />
+    <link Parent="637792444397007376" Value="1" Active="T" />
+  </node>
+  <node ID="637792444423255116" Title="Formality (clear definition of rules)" DataType="Numeric" Level="Feature" Description="The degree of formality: the extend to which a language has well defined semantics and rules to be followed" Req="M" Order="Syntax" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396195141" Value="1" Active="T" />
+    <link Parent="637792444396645175" Value="1" Active="T" />
+    <link Parent="637792444397007376" Value="1" Active="T" />
+  </node>
+  <node ID="637792444423812271" Title="Perceptual discriminatibility" DataType="Numeric" Level="Feature" Description="Extent to which symbols are clearly distinguishable[COMMA] as perceived in literature" Req="N" Order="Syntax" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396195141" Value="1" Active="T" />
+    <link Parent="637792444396645175" Value="1" Active="T" />
+    <link Parent="637792444397007376" Value="1" Active="T" />
+    <link Parent="637792444397267480" Value="1" Active="T" />
+  </node>
+  <node ID="637792444424432623" Title="Semantic transparency" DataType="Numeric" Level="Feature" Description="Self describing: extent to which meaning of symbol can be inferred from its appearance[COMMA] as perceived in literature" Req="N" Order="Syntax" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396015197" Value="1" Active="T" />
+    <link Parent="637792444397007376" Value="1" Active="T" />
+    <link Parent="637792444397188085" Value="1" Active="T" />
+    <link Parent="637792444397760055" Value="1" Active="T" />
+  </node>
+  <node ID="637792444425052486" Title="Organizational body" DataType="Boolean" Level="Feature" Description="Whether there is an organization behind the language[COMMA] actively responsible for version management and development of the language[COMMA] e.g. OMG" Req="M" Order="Universality" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396915587" Value="1" Active="T" />
+    <link Parent="637792444397087482" Value="1" Active="T" />
+    <link Parent="637792444397760055" Value="1" Active="T" />
+    <link Parent="637792444397943786" Value="1" Active="T" />
+    <link Parent="637792444398045014" Value="1" Active="T" />
+  </node>
+  <node ID="637792444425732451" Title="Conformity to standard" DataType="Boolean" Level="Feature" Description="Whether the technique is conform to an ISO standard" Req="C" Order="Universality" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396015197" Value="0.00253616829625047" Active="T" />
+    <link Parent="637792444396835500" Value="0.00253616829625047" Active="T" />
+    <link Parent="637792444396915587" Value="0.00253616829625047" Active="T" />
+    <link Parent="637792444397087482" Value="0.00253616829625047" Active="T" />
+    <link Parent="637792444397760055" Value="0.00253616829625047" Active="T" />
+    <link Parent="637792444397943786" Value="0.00253616829625047" Active="T" />
+    <link Parent="637792444398045014" Value="0.00253616829625047" Active="T" />
+  </node>
+  <node ID="637792444426592450" Title="Evolutionary" DataType="Boolean" Level="Feature" Description="Whether new and improved versions have been released over time" Req="C" Order="Maturity" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444397087482" Value="0.00154052983442448" Active="T" />
+  </node>
+  <node ID="637792444426772446" Title="Theoretical Foundation" DataType="Boolean" Level="Feature" Description="The level of theoretical support for the business process modeling technique (i.e. whether its has its foundations in the academic domain)" Req="N" Order="Maturity" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396015197" Value="1" Active="T" />
+    <link Parent="637792444396195141" Value="1" Active="T" />
+    <link Parent="637792444396645175" Value="1" Active="T" />
+    <link Parent="637792444397007376" Value="1" Active="T" />
+    <link Parent="637792444397087482" Value="1" Active="T" />
+    <link Parent="637792444397760055" Value="1" Active="T" />
+    <link Parent="637792444398045014" Value="1" Active="T" />
+  </node>
+  <node ID="637792444427672460" Title="Documentation availability" DataType="Boolean" Level="Feature" Description="Availability of a comprehensive and well-documented manual or language specification" Req="S" Order="Maturity" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396195141" Value="0.174564575061809" Active="T" />
+    <link Parent="637792444396355136" Value="0.174564575061809" Active="T" />
+    <link Parent="637792444396645175" Value="0.174564575061809" Active="T" />
+    <link Parent="637792444397007376" Value="0.174564575061809" Active="T" />
+    <link Parent="637792444397087482" Value="0.174564575061809" Active="T" />
+    <link Parent="637792444397267480" Value="0.174564575061809" Active="T" />
+    <link Parent="637792444397477531" Value="0.174564575061809" Active="T" />
+    <link Parent="637792444397760055" Value="0.174564575061809" Active="T" />
+    <link Parent="637792444397943786" Value="0.174564575061809" Active="T" />
+    <link Parent="637792444398045014" Value="0.174564575061809" Active="T" />
+  </node>
+  <node ID="637792444428772655" Title="Active community" DataType="Boolean" Level="Feature" Description="Whether the technique has an active community. An active community is defined as a group of people (modelers) gathered in a place to achieve a common goal (in this case being an online forum or an active research community)" Req="N" Order="Maturity" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396355136" Value="1" Active="T" />
+    <link Parent="637792444396645175" Value="1" Active="T" />
+    <link Parent="637792444397007376" Value="1" Active="T" />
+    <link Parent="637792444397087482" Value="1" Active="T" />
+    <link Parent="637792444397267480" Value="1" Active="T" />
+    <link Parent="637792444397477531" Value="1" Active="T" />
+    <link Parent="637792444397760055" Value="1" Active="T" />
+    <link Parent="637792444397943786" Value="1" Active="T" />
+    <link Parent="637792444398045014" Value="1" Active="T" />
+  </node>
+  <node ID="637792444429752463" Title="HR availability" DataType="Numeric" Level="Feature" Description="Degree of expert availability (*may vary over time)" Req="M" Order="Maturity" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396355136" Value="1" Active="T" />
+    <link Parent="637792444397087482" Value="1" Active="T" />
+    <link Parent="637792444397477531" Value="1" Active="T" />
+    <link Parent="637792444397760055" Value="1" Active="T" />
+    <link Parent="637792444398045014" Value="1" Active="T" />
+  </node>
+  <node ID="637792444430382447" Title="Training material availability (degree)" DataType="Numeric" Level="Feature" Description="The degree of training material availability" Req="C" Order="Training material availability" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396195141" Value="0.00210155657237473" Active="T" />
+    <link Parent="637792444396645175" Value="0.00210155657237473" Active="T" />
+    <link Parent="637792444397007376" Value="0.00210155657237473" Active="T" />
+    <link Parent="637792444397087482" Value="0.00210155657237473" Active="T" />
+    <link Parent="637792444397477531" Value="0.00210155657237473" Active="T" />
+    <link Parent="637792444397943786" Value="0.00210155657237473" Active="T" />
+    <link Parent="637792444398045014" Value="0.00210155657237473" Active="T" />
+  </node>
+  <node ID="637792444431462471" Title="YouTube availability" DataType="Boolean" Level="Feature" Description="Whether there are instructional youtube videos available about the technique (Language: EN)" Req="N" Order="Training material availability" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396195141" Value="1" Active="T" />
+    <link Parent="637792444396645175" Value="1" Active="T" />
+    <link Parent="637792444397007376" Value="1" Active="T" />
+    <link Parent="637792444397087482" Value="1" Active="T" />
+    <link Parent="637792444397477531" Value="1" Active="T" />
+    <link Parent="637792444397943786" Value="1" Active="T" />
+    <link Parent="637792444398045014" Value="1" Active="T" />
+  </node>
+  <node ID="637792444432372523" Title="Course availability" DataType="Boolean" Level="Feature" Description="Whether there are courses available at recognized organizations[COMMA] e.g. UvA or UU[COMMA] about the technique" Req="N" Order="Training material availability" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396195141" Value="1" Active="T" />
+    <link Parent="637792444396645175" Value="1" Active="T" />
+    <link Parent="637792444397007376" Value="1" Active="T" />
+    <link Parent="637792444397087482" Value="1" Active="T" />
+    <link Parent="637792444397477531" Value="1" Active="T" />
+    <link Parent="637792444397943786" Value="1" Active="T" />
+    <link Parent="637792444398045014" Value="1" Active="T" />
+  </node>
+  <node ID="637792444433311573" Title="Blog/Article availability" DataType="Boolean" Level="Feature" Description="Whether there are blogs / articles available about the technique" Req="N" Order="Training material availability" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396195141" Value="1" Active="T" />
+    <link Parent="637792444396645175" Value="1" Active="T" />
+    <link Parent="637792444397007376" Value="1" Active="T" />
+    <link Parent="637792444397087482" Value="1" Active="T" />
+    <link Parent="637792444397477531" Value="1" Active="T" />
+    <link Parent="637792444397943786" Value="1" Active="T" />
+    <link Parent="637792444398045014" Value="1" Active="T" />
+  </node>
+  <node ID="637792444434003266" Title="Degree of Popularity" DataType="Numeric" Level="Feature" Description="The degree of popularity of the given technique (3 = very popular)" Req="S" Order="Popularity" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396915587" Value="0.108570522132739" Active="T" />
+    <link Parent="637792444397007376" Value="0.108570522132739" Active="T" />
+    <link Parent="637792444397087482" Value="0.108570522132739" Active="T" />
+    <link Parent="637792444397477531" Value="0.108570522132739" Active="T" />
+    <link Parent="637792444397943786" Value="0.108570522132739" Active="T" />
+    <link Parent="637792444398045014" Value="0.108570522132739" Active="T" />
+  </node>
+  <node ID="637792444434603707" Title="tool availability (degree)" DataType="Numeric" Level="Feature" Description="The degree of tool availability for both free and paid tools combined" Req="S" Order="Tool support" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396355136" Value="0.187340508139765" Active="T" />
+    <link Parent="637792444396835500" Value="0.187340508139765" Active="T" />
+    <link Parent="637792444396915587" Value="0.187340508139765" Active="T" />
+    <link Parent="637792444397087482" Value="0.187340508139765" Active="T" />
+    <link Parent="637792444397477531" Value="0.187340508139765" Active="T" />
+    <link Parent="637792444397760055" Value="0.187340508139765" Active="T" />
+    <link Parent="637792444397943786" Value="0.187340508139765" Active="T" />
+    <link Parent="637792444398045014" Value="0.187340508139765" Active="T" />
+  </node>
+  <node ID="637792444435479426" Title="free tools availability" DataType="Boolean" Level="Feature" Description="Whether there are any free tools available that support the modeling using a certain technique" Req="M" Order="Tool support" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444396355136" Value="1" Active="T" />
+    <link Parent="637792444396835500" Value="1" Active="T" />
+    <link Parent="637792444396915587" Value="1" Active="T" />
+    <link Parent="637792444397087482" Value="1" Active="T" />
+    <link Parent="637792444397477531" Value="1" Active="T" />
+    <link Parent="637792444397760055" Value="1" Active="T" />
+    <link Parent="637792444398045014" Value="1" Active="T" />
+  </node>
+  <node ID="637792444436244682" Title="open-source tools availability" DataType="Boolean" Level="Feature" Description="Whether there are any open source tools available that support the modeling using a certain technique" Req="M" Order="Tool support" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444395905146" Value="1" Active="T" />
+    <link Parent="637792444396355136" Value="1" Active="T" />
+    <link Parent="637792444396835500" Value="1" Active="T" />
+    <link Parent="637792444396915587" Value="1" Active="T" />
+    <link Parent="637792444397087482" Value="1" Active="T" />
+    <link Parent="637792444397477531" Value="1" Active="T" />
+    <link Parent="637792444397760055" Value="1" Active="T" />
+    <link Parent="637792444398045014" Value="1" Active="T" />
+  </node>
+  <node ID="637792447225526762" Title="QA:BPML" DataType="Numeric" Level="Characteristic" Description="" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="636170012124150646" Value="1" Active="T" />
+  </node>
+  <node ID="637792449917676250" Title="Ordered Checklist" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444399416121" Value="1" Active="T" />
+    <link Parent="637792444400316493" Value="1" Active="T" />
+    <link Parent="637792444400816183" Value="1" Active="T" />
+    <link Parent="637792444402476144" Value="1" Active="T" />
+    <link Parent="637792444403264949" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444405790713" Value="1" Active="T" />
+    <link Parent="637792444411182406" Value="1" Active="T" />
+    <link Parent="637792444411802851" Value="1" Active="T" />
+    <link Parent="637792444419890706" Value="1" Active="T" />
+    <link Parent="637792444420640709" Value="1" Active="T" />
+    <link Parent="637792444421104649" Value="1" Active="T" />
+    <link Parent="637792444423255116" Value="0.33" Active="T" />
+    <link Parent="637792444430382447" Value="0.66" Active="T" />
+    <link Parent="637792444431462471" Value="1" Active="T" />
+    <link Parent="637792444433311573" Value="1" Active="T" />
+    <link Parent="637792444434603707" Value="0.99" Active="T" />
+    <link Parent="637792444435479426" Value="1" Active="T" />
+    <link Parent="637792444436244682" Value="1" Active="T" />
+  </node>
+  <node ID="637792449917796272" Title="Unordered Checklist" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444399416121" Value="1" Active="T" />
+    <link Parent="637792444400316493" Value="1" Active="T" />
+    <link Parent="637792444402476144" Value="1" Active="T" />
+    <link Parent="637792444403264949" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444411182406" Value="1" Active="T" />
+    <link Parent="637792444411802851" Value="1" Active="T" />
+    <link Parent="637792444419890706" Value="1" Active="T" />
+    <link Parent="637792444420640709" Value="1" Active="T" />
+    <link Parent="637792444421104649" Value="1" Active="T" />
+    <link Parent="637792444423255116" Value="0.33" Active="T" />
+    <link Parent="637792444430382447" Value="0.66" Active="T" />
+    <link Parent="637792444431462471" Value="1" Active="T" />
+    <link Parent="637792444433311573" Value="1" Active="T" />
+    <link Parent="637792444434603707" Value="0.99" Active="T" />
+    <link Parent="637792444435479426" Value="1" Active="T" />
+    <link Parent="637792444436244682" Value="1" Active="T" />
+  </node>
+  <node ID="637792449917936285" Title="Petri Net" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444399004101" Value="1" Active="T" />
+    <link Parent="637792444399416121" Value="1" Active="T" />
+    <link Parent="637792444399946113" Value="1" Active="T" />
+    <link Parent="637792444400316493" Value="1" Active="T" />
+    <link Parent="637792444400816183" Value="1" Active="T" />
+    <link Parent="637792444402476144" Value="1" Active="T" />
+    <link Parent="637792444403645150" Value="1" Active="T" />
+    <link Parent="637792444404447087" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444405790713" Value="1" Active="T" />
+    <link Parent="637792444406132675" Value="1" Active="T" />
+    <link Parent="637792444406412653" Value="1" Active="T" />
+    <link Parent="637792444407222160" Value="1" Active="T" />
+    <link Parent="637792444407556418" Value="1" Active="T" />
+    <link Parent="637792444408009742" Value="1" Active="T" />
+    <link Parent="637792444408379801" Value="1" Active="T" />
+    <link Parent="637792444411802851" Value="1" Active="T" />
+    <link Parent="637792444412262813" Value="1" Active="T" />
+    <link Parent="637792444412702786" Value="1" Active="T" />
+    <link Parent="637792444413232420" Value="1" Active="T" />
+    <link Parent="637792444414132791" Value="1" Active="T" />
+    <link Parent="637792444414510682" Value="1" Active="T" />
+    <link Parent="637792444416130700" Value="1" Active="T" />
+    <link Parent="637792444416690677" Value="1" Active="T" />
+    <link Parent="637792444417221101" Value="1" Active="T" />
+    <link Parent="637792444417571109" Value="1" Active="T" />
+    <link Parent="637792444418001106" Value="1" Active="T" />
+    <link Parent="637792444419890706" Value="1" Active="T" />
+    <link Parent="637792444420241106" Value="1" Active="T" />
+    <link Parent="637792444421575072" Value="1" Active="T" />
+    <link Parent="637792444421864668" Value="0.33" Active="T" />
+    <link Parent="637792444423255116" Value="0.99" Active="T" />
+    <link Parent="637792444423812271" Value="0.99" Active="T" />
+    <link Parent="637792444424432623" Value="0.99" Active="T" />
+    <link Parent="637792444425732451" Value="1" Active="T" />
+    <link Parent="637792444426772446" Value="1" Active="T" />
+    <link Parent="637792444427672460" Value="1" Active="T" />
+    <link Parent="637792444428772655" Value="1" Active="T" />
+    <link Parent="637792444429752463" Value="0.33" Active="T" />
+    <link Parent="637792444430382447" Value="0.99" Active="T" />
+    <link Parent="637792444431462471" Value="1" Active="T" />
+    <link Parent="637792444432372523" Value="1" Active="T" />
+    <link Parent="637792444433311573" Value="1" Active="T" />
+    <link Parent="637792444434003266" Value="0.99" Active="T" />
+    <link Parent="637792444434603707" Value="0.99" Active="T" />
+    <link Parent="637792444435479426" Value="1" Active="T" />
+    <link Parent="637792444436244682" Value="1" Active="T" />
+  </node>
+  <node ID="637792449918016242" Title="Coloured Petri Net" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444399004101" Value="1" Active="T" />
+    <link Parent="637792444399416121" Value="1" Active="T" />
+    <link Parent="637792444399946113" Value="1" Active="T" />
+    <link Parent="637792444400316493" Value="1" Active="T" />
+    <link Parent="637792444400816183" Value="1" Active="T" />
+    <link Parent="637792444402476144" Value="1" Active="T" />
+    <link Parent="637792444403645150" Value="1" Active="T" />
+    <link Parent="637792444404447087" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444405790713" Value="1" Active="T" />
+    <link Parent="637792444406132675" Value="1" Active="T" />
+    <link Parent="637792444406412653" Value="1" Active="T" />
+    <link Parent="637792444407222160" Value="1" Active="T" />
+    <link Parent="637792444407556418" Value="1" Active="T" />
+    <link Parent="637792444408009742" Value="1" Active="T" />
+    <link Parent="637792444408379801" Value="1" Active="T" />
+    <link Parent="637792444411802851" Value="1" Active="T" />
+    <link Parent="637792444412262813" Value="1" Active="T" />
+    <link Parent="637792444413232420" Value="1" Active="T" />
+    <link Parent="637792444414132791" Value="1" Active="T" />
+    <link Parent="637792444414510682" Value="1" Active="T" />
+    <link Parent="637792444416130700" Value="1" Active="T" />
+    <link Parent="637792444416690677" Value="1" Active="T" />
+    <link Parent="637792444417221101" Value="1" Active="T" />
+    <link Parent="637792444417571109" Value="1" Active="T" />
+    <link Parent="637792444418001106" Value="1" Active="T" />
+    <link Parent="637792444419890706" Value="1" Active="T" />
+    <link Parent="637792444420241106" Value="1" Active="T" />
+    <link Parent="637792444421575072" Value="1" Active="T" />
+    <link Parent="637792444421864668" Value="0.33" Active="T" />
+    <link Parent="637792444422875032" Value="1" Active="T" />
+    <link Parent="637792444423255116" Value="0.99" Active="T" />
+    <link Parent="637792444423812271" Value="0.99" Active="T" />
+    <link Parent="637792444424432623" Value="0.99" Active="T" />
+    <link Parent="637792444425732451" Value="1" Active="T" />
+    <link Parent="637792444426772446" Value="1" Active="T" />
+    <link Parent="637792444427672460" Value="1" Active="T" />
+    <link Parent="637792444428772655" Value="1" Active="T" />
+    <link Parent="637792444429752463" Value="0.33" Active="T" />
+    <link Parent="637792444430382447" Value="0.99" Active="T" />
+    <link Parent="637792444431462471" Value="1" Active="T" />
+    <link Parent="637792444432372523" Value="1" Active="T" />
+    <link Parent="637792444433311573" Value="1" Active="T" />
+    <link Parent="637792444434003266" Value="0.66" Active="T" />
+    <link Parent="637792444434603707" Value="0.99" Active="T" />
+    <link Parent="637792444435479426" Value="1" Active="T" />
+    <link Parent="637792444436244682" Value="1" Active="T" />
+  </node>
+  <node ID="637792449918106247" Title="Flowchart" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444398226480" Value="1" Active="T" />
+    <link Parent="637792444399004101" Value="1" Active="T" />
+    <link Parent="637792444399946113" Value="1" Active="T" />
+    <link Parent="637792444400316493" Value="1" Active="T" />
+    <link Parent="637792444402476144" Value="1" Active="T" />
+    <link Parent="637792444403645150" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444405790713" Value="1" Active="T" />
+    <link Parent="637792444407222160" Value="1" Active="T" />
+    <link Parent="637792444408009742" Value="1" Active="T" />
+    <link Parent="637792444408379801" Value="1" Active="T" />
+    <link Parent="637792444411182406" Value="1" Active="T" />
+    <link Parent="637792444411802851" Value="1" Active="T" />
+    <link Parent="637792444416130700" Value="1" Active="T" />
+    <link Parent="637792444419890706" Value="1" Active="T" />
+    <link Parent="637792444420640709" Value="1" Active="T" />
+    <link Parent="637792444421104649" Value="1" Active="T" />
+    <link Parent="637792444421864668" Value="0.66" Active="T" />
+    <link Parent="637792444423255116" Value="0.33" Active="T" />
+    <link Parent="637792444423812271" Value="0.99" Active="T" />
+    <link Parent="637792444424432623" Value="0.99" Active="T" />
+    <link Parent="637792444425732451" Value="1" Active="T" />
+    <link Parent="637792444427672460" Value="1" Active="T" />
+    <link Parent="637792444428772655" Value="1" Active="T" />
+    <link Parent="637792444429752463" Value="0.99" Active="T" />
+    <link Parent="637792444430382447" Value="0.99" Active="T" />
+    <link Parent="637792444431462471" Value="1" Active="T" />
+    <link Parent="637792444432372523" Value="1" Active="T" />
+    <link Parent="637792444433311573" Value="1" Active="T" />
+    <link Parent="637792444434003266" Value="0.99" Active="T" />
+    <link Parent="637792444434603707" Value="0.99" Active="T" />
+    <link Parent="637792444435479426" Value="1" Active="T" />
+    <link Parent="637792444436244682" Value="1" Active="T" />
+  </node>
+  <node ID="637792449918186249" Title="BPMN 2.0" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444398226480" Value="1" Active="T" />
+    <link Parent="637792444399004101" Value="1" Active="T" />
+    <link Parent="637792444399416121" Value="1" Active="T" />
+    <link Parent="637792444399946113" Value="1" Active="T" />
+    <link Parent="637792444400316493" Value="1" Active="T" />
+    <link Parent="637792444400816183" Value="1" Active="T" />
+    <link Parent="637792444402056117" Value="1" Active="T" />
+    <link Parent="637792444402476144" Value="1" Active="T" />
+    <link Parent="637792444403645150" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444405790713" Value="1" Active="T" />
+    <link Parent="637792444406132675" Value="1" Active="T" />
+    <link Parent="637792444406412653" Value="1" Active="T" />
+    <link Parent="637792444406752226" Value="1" Active="T" />
+    <link Parent="637792444407222160" Value="1" Active="T" />
+    <link Parent="637792444407556418" Value="1" Active="T" />
+    <link Parent="637792444408009742" Value="1" Active="T" />
+    <link Parent="637792444408379801" Value="1" Active="T" />
+    <link Parent="637792444408739670" Value="1" Active="T" />
+    <link Parent="637792444409199329" Value="1" Active="T" />
+    <link Parent="637792444410009265" Value="1" Active="T" />
+    <link Parent="637792444410408905" Value="1" Active="T" />
+    <link Parent="637792444411182406" Value="1" Active="T" />
+    <link Parent="637792444411802851" Value="1" Active="T" />
+    <link Parent="637792444412262813" Value="1" Active="T" />
+    <link Parent="637792444412702786" Value="1" Active="T" />
+    <link Parent="637792444413232420" Value="1" Active="T" />
+    <link Parent="637792444414132791" Value="1" Active="T" />
+    <link Parent="637792444414830726" Value="1" Active="T" />
+    <link Parent="637792444415200737" Value="1" Active="T" />
+    <link Parent="637792444416130700" Value="1" Active="T" />
+    <link Parent="637792444416690677" Value="1" Active="T" />
+    <link Parent="637792444417221101" Value="1" Active="T" />
+    <link Parent="637792444418001106" Value="1" Active="T" />
+    <link Parent="637792444418560711" Value="1" Active="T" />
+    <link Parent="637792444419550695" Value="1" Active="T" />
+    <link Parent="637792444419890706" Value="1" Active="T" />
+    <link Parent="637792444420640709" Value="1" Active="T" />
+    <link Parent="637792444421104649" Value="1" Active="T" />
+    <link Parent="637792444421575072" Value="1" Active="T" />
+    <link Parent="637792444421864668" Value="0.99" Active="T" />
+    <link Parent="637792444423255116" Value="0.99" Active="T" />
+    <link Parent="637792444423812271" Value="0.66" Active="T" />
+    <link Parent="637792444424432623" Value="0.66" Active="T" />
+    <link Parent="637792444425052486" Value="1" Active="T" />
+    <link Parent="637792444425732451" Value="1" Active="T" />
+    <link Parent="637792444426592450" Value="1" Active="T" />
+    <link Parent="637792444426772446" Value="1" Active="T" />
+    <link Parent="637792444427672460" Value="1" Active="T" />
+    <link Parent="637792444428772655" Value="1" Active="T" />
+    <link Parent="637792444429752463" Value="0.99" Active="T" />
+    <link Parent="637792444430382447" Value="0.99" Active="T" />
+    <link Parent="637792444431462471" Value="1" Active="T" />
+    <link Parent="637792444432372523" Value="1" Active="T" />
+    <link Parent="637792444433311573" Value="1" Active="T" />
+    <link Parent="637792444434003266" Value="0.99" Active="T" />
+    <link Parent="637792444434603707" Value="0.99" Active="T" />
+    <link Parent="637792444435479426" Value="1" Active="T" />
+    <link Parent="637792444436244682" Value="1" Active="T" />
+  </node>
+  <node ID="637792449918286245" Title="IDEF0" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444399004101" Value="1" Active="T" />
+    <link Parent="637792444400316493" Value="1" Active="T" />
+    <link Parent="637792444403645150" Value="1" Active="T" />
+    <link Parent="637792444404447087" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444406132675" Value="1" Active="T" />
+    <link Parent="637792444406412653" Value="1" Active="T" />
+    <link Parent="637792444408009742" Value="1" Active="T" />
+    <link Parent="637792444408379801" Value="1" Active="T" />
+    <link Parent="637792444411802851" Value="1" Active="T" />
+    <link Parent="637792444417221101" Value="1" Active="T" />
+    <link Parent="637792444418560711" Value="1" Active="T" />
+    <link Parent="637792444419550695" Value="1" Active="T" />
+    <link Parent="637792444419890706" Value="1" Active="T" />
+    <link Parent="637792444420241106" Value="1" Active="T" />
+    <link Parent="637792444421575072" Value="1" Active="T" />
+    <link Parent="637792444421864668" Value="0.33" Active="T" />
+    <link Parent="637792444423255116" Value="0.99" Active="T" />
+    <link Parent="637792444423812271" Value="0.99" Active="T" />
+    <link Parent="637792444424432623" Value="0.99" Active="T" />
+    <link Parent="637792444425732451" Value="1" Active="T" />
+    <link Parent="637792444426772446" Value="1" Active="T" />
+    <link Parent="637792444427672460" Value="1" Active="T" />
+    <link Parent="637792444429752463" Value="0.66" Active="T" />
+    <link Parent="637792444430382447" Value="0.66" Active="T" />
+    <link Parent="637792444431462471" Value="1" Active="T" />
+    <link Parent="637792444433311573" Value="1" Active="T" />
+    <link Parent="637792444434003266" Value="0.33" Active="T" />
+    <link Parent="637792444434603707" Value="0.99" Active="T" />
+  </node>
+  <node ID="637792449918366269" Title="IDEF3" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444398226480" Value="1" Active="T" />
+    <link Parent="637792444400816183" Value="1" Active="T" />
+    <link Parent="637792444402476144" Value="1" Active="T" />
+    <link Parent="637792444403645150" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444405790713" Value="1" Active="T" />
+    <link Parent="637792444406412653" Value="1" Active="T" />
+    <link Parent="637792444406752226" Value="1" Active="T" />
+    <link Parent="637792444407222160" Value="1" Active="T" />
+    <link Parent="637792444407556418" Value="1" Active="T" />
+    <link Parent="637792444410408905" Value="1" Active="T" />
+    <link Parent="637792444411802851" Value="1" Active="T" />
+    <link Parent="637792444412262813" Value="1" Active="T" />
+    <link Parent="637792444416130700" Value="1" Active="T" />
+    <link Parent="637792444417221101" Value="1" Active="T" />
+    <link Parent="637792444417571109" Value="1" Active="T" />
+    <link Parent="637792444418560711" Value="1" Active="T" />
+    <link Parent="637792444419550695" Value="1" Active="T" />
+    <link Parent="637792444419890706" Value="1" Active="T" />
+    <link Parent="637792444420241106" Value="1" Active="T" />
+    <link Parent="637792444420640709" Value="1" Active="T" />
+    <link Parent="637792444421575072" Value="1" Active="T" />
+    <link Parent="637792444421864668" Value="0.66" Active="T" />
+    <link Parent="637792444423255116" Value="0.99" Active="T" />
+    <link Parent="637792444423812271" Value="0.66" Active="T" />
+    <link Parent="637792444424432623" Value="0.33" Active="T" />
+    <link Parent="637792444426772446" Value="1" Active="T" />
+    <link Parent="637792444429752463" Value="0.33" Active="T" />
+    <link Parent="637792444430382447" Value="0.33" Active="T" />
+    <link Parent="637792444433311573" Value="1" Active="T" />
+    <link Parent="637792444434003266" Value="0.33" Active="T" />
+    <link Parent="637792444434603707" Value="0.66" Active="T" />
+  </node>
+  <node ID="637792449918466271" Title="YAWL" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444399004101" Value="1" Active="T" />
+    <link Parent="637792444399416121" Value="1" Active="T" />
+    <link Parent="637792444399946113" Value="1" Active="T" />
+    <link Parent="637792444400316493" Value="1" Active="T" />
+    <link Parent="637792444401486130" Value="1" Active="T" />
+    <link Parent="637792444402476144" Value="1" Active="T" />
+    <link Parent="637792444403645150" Value="1" Active="T" />
+    <link Parent="637792444404447087" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444405790713" Value="1" Active="T" />
+    <link Parent="637792444406132675" Value="1" Active="T" />
+    <link Parent="637792444406412653" Value="1" Active="T" />
+    <link Parent="637792444406752226" Value="1" Active="T" />
+    <link Parent="637792444407222160" Value="1" Active="T" />
+    <link Parent="637792444407556418" Value="1" Active="T" />
+    <link Parent="637792444409199329" Value="1" Active="T" />
+    <link Parent="637792444411802851" Value="1" Active="T" />
+    <link Parent="637792444412262813" Value="1" Active="T" />
+    <link Parent="637792444413232420" Value="1" Active="T" />
+    <link Parent="637792444414132791" Value="1" Active="T" />
+    <link Parent="637792444415491093" Value="1" Active="T" />
+    <link Parent="637792444416130700" Value="1" Active="T" />
+    <link Parent="637792444416690677" Value="1" Active="T" />
+    <link Parent="637792444417221101" Value="1" Active="T" />
+    <link Parent="637792444417571109" Value="1" Active="T" />
+    <link Parent="637792444418001106" Value="1" Active="T" />
+    <link Parent="637792444418560711" Value="1" Active="T" />
+    <link Parent="637792444419890706" Value="1" Active="T" />
+    <link Parent="637792444420241106" Value="1" Active="T" />
+    <link Parent="637792444420640709" Value="1" Active="T" />
+    <link Parent="637792444421575072" Value="1" Active="T" />
+    <link Parent="637792444421864668" Value="0.99" Active="T" />
+    <link Parent="637792444423255116" Value="0.99" Active="T" />
+    <link Parent="637792444423812271" Value="0.99" Active="T" />
+    <link Parent="637792444424432623" Value="0.99" Active="T" />
+    <link Parent="637792444425052486" Value="1" Active="T" />
+    <link Parent="637792444426592450" Value="1" Active="T" />
+    <link Parent="637792444426772446" Value="1" Active="T" />
+    <link Parent="637792444427672460" Value="1" Active="T" />
+    <link Parent="637792444428772655" Value="1" Active="T" />
+    <link Parent="637792444429752463" Value="0.33" Active="T" />
+    <link Parent="637792444430382447" Value="0.99" Active="T" />
+    <link Parent="637792444431462471" Value="1" Active="T" />
+    <link Parent="637792444432372523" Value="1" Active="T" />
+    <link Parent="637792444433311573" Value="1" Active="T" />
+    <link Parent="637792444434003266" Value="0.33" Active="T" />
+    <link Parent="637792444434603707" Value="0.66" Active="T" />
+    <link Parent="637792444435479426" Value="1" Active="T" />
+    <link Parent="637792444436244682" Value="1" Active="T" />
+  </node>
+  <node ID="637792449918536272" Title="EPC" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444398226480" Value="1" Active="T" />
+    <link Parent="637792444399004101" Value="1" Active="T" />
+    <link Parent="637792444400316493" Value="1" Active="T" />
+    <link Parent="637792444400816183" Value="1" Active="T" />
+    <link Parent="637792444402056117" Value="1" Active="T" />
+    <link Parent="637792444402476144" Value="1" Active="T" />
+    <link Parent="637792444403645150" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444405790713" Value="1" Active="T" />
+    <link Parent="637792444406412653" Value="1" Active="T" />
+    <link Parent="637792444406752226" Value="1" Active="T" />
+    <link Parent="637792444407222160" Value="1" Active="T" />
+    <link Parent="637792444407556418" Value="1" Active="T" />
+    <link Parent="637792444408009742" Value="1" Active="T" />
+    <link Parent="637792444408379801" Value="1" Active="T" />
+    <link Parent="637792444408739670" Value="1" Active="T" />
+    <link Parent="637792444409199329" Value="1" Active="T" />
+    <link Parent="637792444411802851" Value="1" Active="T" />
+    <link Parent="637792444412262813" Value="1" Active="T" />
+    <link Parent="637792444412702786" Value="1" Active="T" />
+    <link Parent="637792444414132791" Value="1" Active="T" />
+    <link Parent="637792444415781297" Value="1" Active="T" />
+    <link Parent="637792444416130700" Value="1" Active="T" />
+    <link Parent="637792444417221101" Value="1" Active="T" />
+    <link Parent="637792444419890706" Value="1" Active="T" />
+    <link Parent="637792444420640709" Value="1" Active="T" />
+    <link Parent="637792444421104649" Value="1" Active="T" />
+    <link Parent="637792444421864668" Value="0.66" Active="T" />
+    <link Parent="637792444422875032" Value="1" Active="T" />
+    <link Parent="637792444423255116" Value="0.33" Active="T" />
+    <link Parent="637792444423812271" Value="0.99" Active="T" />
+    <link Parent="637792444424432623" Value="0.99" Active="T" />
+    <link Parent="637792444426772446" Value="1" Active="T" />
+    <link Parent="637792444429752463" Value="0.33" Active="T" />
+    <link Parent="637792444430382447" Value="0.99" Active="T" />
+    <link Parent="637792444431462471" Value="1" Active="T" />
+    <link Parent="637792444432372523" Value="1" Active="T" />
+    <link Parent="637792444433311573" Value="1" Active="T" />
+    <link Parent="637792444434003266" Value="0.66" Active="T" />
+    <link Parent="637792444434603707" Value="0.99" Active="T" />
+    <link Parent="637792444435479426" Value="1" Active="T" />
+  </node>
+  <node ID="637792449918646265" Title="UML Activity Diagram" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444398226480" Value="1" Active="T" />
+    <link Parent="637792444399004101" Value="1" Active="T" />
+    <link Parent="637792444399946113" Value="1" Active="T" />
+    <link Parent="637792444400316493" Value="1" Active="T" />
+    <link Parent="637792444400816183" Value="1" Active="T" />
+    <link Parent="637792444402056117" Value="1" Active="T" />
+    <link Parent="637792444402476144" Value="1" Active="T" />
+    <link Parent="637792444403645150" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444405790713" Value="1" Active="T" />
+    <link Parent="637792444406132675" Value="1" Active="T" />
+    <link Parent="637792444406752226" Value="1" Active="T" />
+    <link Parent="637792444407222160" Value="1" Active="T" />
+    <link Parent="637792444407556418" Value="1" Active="T" />
+    <link Parent="637792444408009742" Value="1" Active="T" />
+    <link Parent="637792444408379801" Value="1" Active="T" />
+    <link Parent="637792444408739670" Value="1" Active="T" />
+    <link Parent="637792444409199329" Value="1" Active="T" />
+    <link Parent="637792444410009265" Value="1" Active="T" />
+    <link Parent="637792444411182406" Value="1" Active="T" />
+    <link Parent="637792444411802851" Value="1" Active="T" />
+    <link Parent="637792444412262813" Value="1" Active="T" />
+    <link Parent="637792444412702786" Value="1" Active="T" />
+    <link Parent="637792444413232420" Value="1" Active="T" />
+    <link Parent="637792444414132791" Value="1" Active="T" />
+    <link Parent="637792444415200737" Value="1" Active="T" />
+    <link Parent="637792444416130700" Value="1" Active="T" />
+    <link Parent="637792444419550695" Value="1" Active="T" />
+    <link Parent="637792444419890706" Value="1" Active="T" />
+    <link Parent="637792444420640709" Value="1" Active="T" />
+    <link Parent="637792444421104649" Value="1" Active="T" />
+    <link Parent="637792444421575072" Value="1" Active="T" />
+    <link Parent="637792444421864668" Value="0.99" Active="T" />
+    <link Parent="637792444423255116" Value="0.66" Active="T" />
+    <link Parent="637792444423812271" Value="0.66" Active="T" />
+    <link Parent="637792444424432623" Value="0.99" Active="T" />
+    <link Parent="637792444425052486" Value="1" Active="T" />
+    <link Parent="637792444425732451" Value="1" Active="T" />
+    <link Parent="637792444426592450" Value="1" Active="T" />
+    <link Parent="637792444426772446" Value="1" Active="T" />
+    <link Parent="637792444427672460" Value="1" Active="T" />
+    <link Parent="637792444428772655" Value="1" Active="T" />
+    <link Parent="637792444429752463" Value="0.99" Active="T" />
+    <link Parent="637792444430382447" Value="0.99" Active="T" />
+    <link Parent="637792444431462471" Value="1" Active="T" />
+    <link Parent="637792444432372523" Value="1" Active="T" />
+    <link Parent="637792444433311573" Value="1" Active="T" />
+    <link Parent="637792444434003266" Value="0.99" Active="T" />
+    <link Parent="637792444434603707" Value="0.99" Active="T" />
+    <link Parent="637792444435479426" Value="1" Active="T" />
+    <link Parent="637792444436244682" Value="1" Active="T" />
+  </node>
+  <node ID="637792449918726602" Title="UML Use Case Diagram" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444398226480" Value="1" Active="T" />
+    <link Parent="637792444402056117" Value="1" Active="T" />
+    <link Parent="637792444402476144" Value="1" Active="T" />
+    <link Parent="637792444403264949" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444406132675" Value="1" Active="T" />
+    <link Parent="637792444406412653" Value="1" Active="T" />
+    <link Parent="637792444407222160" Value="1" Active="T" />
+    <link Parent="637792444408739670" Value="1" Active="T" />
+    <link Parent="637792444409199329" Value="1" Active="T" />
+    <link Parent="637792444411182406" Value="1" Active="T" />
+    <link Parent="637792444411802851" Value="1" Active="T" />
+    <link Parent="637792444412262813" Value="1" Active="T" />
+    <link Parent="637792444413232420" Value="1" Active="T" />
+    <link Parent="637792444414132791" Value="1" Active="T" />
+    <link Parent="637792444415200737" Value="1" Active="T" />
+    <link Parent="637792444419550695" Value="1" Active="T" />
+    <link Parent="637792444420241106" Value="1" Active="T" />
+    <link Parent="637792444421104649" Value="1" Active="T" />
+    <link Parent="637792444421864668" Value="0.33" Active="T" />
+    <link Parent="637792444423255116" Value="0.66" Active="T" />
+    <link Parent="637792444423812271" Value="0.99" Active="T" />
+    <link Parent="637792444424432623" Value="0.99" Active="T" />
+    <link Parent="637792444425052486" Value="1" Active="T" />
+    <link Parent="637792444425732451" Value="1" Active="T" />
+    <link Parent="637792444426592450" Value="1" Active="T" />
+    <link Parent="637792444426772446" Value="1" Active="T" />
+    <link Parent="637792444427672460" Value="1" Active="T" />
+    <link Parent="637792444428772655" Value="1" Active="T" />
+    <link Parent="637792444429752463" Value="0.66" Active="T" />
+    <link Parent="637792444430382447" Value="0.99" Active="T" />
+    <link Parent="637792444431462471" Value="1" Active="T" />
+    <link Parent="637792444432372523" Value="1" Active="T" />
+    <link Parent="637792444433311573" Value="1" Active="T" />
+    <link Parent="637792444434003266" Value="0.66" Active="T" />
+    <link Parent="637792444434603707" Value="0.99" Active="T" />
+    <link Parent="637792444435479426" Value="1" Active="T" />
+    <link Parent="637792444436244682" Value="1" Active="T" />
+  </node>
+  <node ID="637792449918836627" Title="UML State (Transition) Diagram" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444398226480" Value="1" Active="T" />
+    <link Parent="637792444399416121" Value="1" Active="T" />
+    <link Parent="637792444399946113" Value="1" Active="T" />
+    <link Parent="637792444400816183" Value="1" Active="T" />
+    <link Parent="637792444401486130" Value="1" Active="T" />
+    <link Parent="637792444403645150" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444406412653" Value="1" Active="T" />
+    <link Parent="637792444407222160" Value="1" Active="T" />
+    <link Parent="637792444407556418" Value="1" Active="T" />
+    <link Parent="637792444412262813" Value="1" Active="T" />
+    <link Parent="637792444413232420" Value="1" Active="T" />
+    <link Parent="637792444414132791" Value="1" Active="T" />
+    <link Parent="637792444415200737" Value="1" Active="T" />
+    <link Parent="637792444416130700" Value="1" Active="T" />
+    <link Parent="637792444418560711" Value="1" Active="T" />
+    <link Parent="637792444419890706" Value="1" Active="T" />
+    <link Parent="637792444420241106" Value="1" Active="T" />
+    <link Parent="637792444421575072" Value="1" Active="T" />
+    <link Parent="637792444421864668" Value="0.99" Active="T" />
+    <link Parent="637792444423255116" Value="0.66" Active="T" />
+    <link Parent="637792444423812271" Value="0.99" Active="T" />
+    <link Parent="637792444424432623" Value="0.99" Active="T" />
+    <link Parent="637792444425052486" Value="1" Active="T" />
+    <link Parent="637792444425732451" Value="1" Active="T" />
+    <link Parent="637792444426592450" Value="1" Active="T" />
+    <link Parent="637792444426772446" Value="1" Active="T" />
+    <link Parent="637792444427672460" Value="1" Active="T" />
+    <link Parent="637792444428772655" Value="1" Active="T" />
+    <link Parent="637792444429752463" Value="0.66" Active="T" />
+    <link Parent="637792444430382447" Value="0.99" Active="T" />
+    <link Parent="637792444431462471" Value="1" Active="T" />
+    <link Parent="637792444432372523" Value="1" Active="T" />
+    <link Parent="637792444433311573" Value="1" Active="T" />
+    <link Parent="637792444434003266" Value="0.66" Active="T" />
+    <link Parent="637792444434603707" Value="0.99" Active="T" />
+    <link Parent="637792444435479426" Value="1" Active="T" />
+    <link Parent="637792444436244682" Value="1" Active="T" />
+  </node>
+  <node ID="637792449918926397" Title="RAD" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444398226480" Value="1" Active="T" />
+    <link Parent="637792444399004101" Value="1" Active="T" />
+    <link Parent="637792444400816183" Value="1" Active="T" />
+    <link Parent="637792444402056117" Value="1" Active="T" />
+    <link Parent="637792444402476144" Value="1" Active="T" />
+    <link Parent="637792444403645150" Value="1" Active="T" />
+    <link Parent="637792444404447087" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444405790713" Value="1" Active="T" />
+    <link Parent="637792444406132675" Value="1" Active="T" />
+    <link Parent="637792444406412653" Value="1" Active="T" />
+    <link Parent="637792444407222160" Value="1" Active="T" />
+    <link Parent="637792444407556418" Value="1" Active="T" />
+    <link Parent="637792444409199329" Value="1" Active="T" />
+    <link Parent="637792444410408905" Value="1" Active="T" />
+    <link Parent="637792444410752360" Value="1" Active="T" />
+    <link Parent="637792444411802851" Value="1" Active="T" />
+    <link Parent="637792444412262813" Value="1" Active="T" />
+    <link Parent="637792444416690677" Value="1" Active="T" />
+    <link Parent="637792444417221101" Value="1" Active="T" />
+    <link Parent="637792444419890706" Value="1" Active="T" />
+    <link Parent="637792444420241106" Value="1" Active="T" />
+    <link Parent="637792444420640709" Value="1" Active="T" />
+    <link Parent="637792444421575072" Value="1" Active="T" />
+    <link Parent="637792444421864668" Value="0.66" Active="T" />
+    <link Parent="637792444423255116" Value="0.99" Active="T" />
+    <link Parent="637792444423812271" Value="0.33" Active="T" />
+    <link Parent="637792444424432623" Value="0.33" Active="T" />
+    <link Parent="637792444426772446" Value="1" Active="T" />
+    <link Parent="637792444429752463" Value="0.33" Active="T" />
+    <link Parent="637792444430382447" Value="0.33" Active="T" />
+    <link Parent="637792444432372523" Value="1" Active="T" />
+    <link Parent="637792444434003266" Value="0.99" Active="T" />
+    <link Parent="637792444434603707" Value="0.33" Active="T" />
+  </node>
+  <node ID="637792449919026653" Title="DFD" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444398226480" Value="1" Active="T" />
+    <link Parent="637792444399416121" Value="1" Active="T" />
+    <link Parent="637792444399946113" Value="1" Active="T" />
+    <link Parent="637792444400316493" Value="1" Active="T" />
+    <link Parent="637792444401486130" Value="1" Active="T" />
+    <link Parent="637792444402476144" Value="1" Active="T" />
+    <link Parent="637792444403645150" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444406132675" Value="1" Active="T" />
+    <link Parent="637792444406412653" Value="1" Active="T" />
+    <link Parent="637792444408009742" Value="1" Active="T" />
+    <link Parent="637792444408379801" Value="1" Active="T" />
+    <link Parent="637792444408739670" Value="1" Active="T" />
+    <link Parent="637792444409199329" Value="1" Active="T" />
+    <link Parent="637792444417221101" Value="1" Active="T" />
+    <link Parent="637792444418560711" Value="1" Active="T" />
+    <link Parent="637792444419550695" Value="1" Active="T" />
+    <link Parent="637792444419890706" Value="1" Active="T" />
+    <link Parent="637792444420241106" Value="1" Active="T" />
+    <link Parent="637792444421104649" Value="1" Active="T" />
+    <link Parent="637792444421575072" Value="1" Active="T" />
+    <link Parent="637792444421864668" Value="0.33" Active="T" />
+    <link Parent="637792444423255116" Value="0.33" Active="T" />
+    <link Parent="637792444423812271" Value="0.99" Active="T" />
+    <link Parent="637792444424432623" Value="0.99" Active="T" />
+    <link Parent="637792444426772446" Value="1" Active="T" />
+    <link Parent="637792444429752463" Value="0.33" Active="T" />
+    <link Parent="637792444430382447" Value="0.99" Active="T" />
+    <link Parent="637792444431462471" Value="1" Active="T" />
+    <link Parent="637792444432372523" Value="1" Active="T" />
+    <link Parent="637792444433311573" Value="1" Active="T" />
+    <link Parent="637792444434003266" Value="0.66" Active="T" />
+    <link Parent="637792444434603707" Value="0.99" Active="T" />
+    <link Parent="637792444435479426" Value="1" Active="T" />
+    <link Parent="637792444436244682" Value="1" Active="T" />
+  </node>
+  <node ID="637792449919136242" Title="VSM (Value Stream Mapping)" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444399004101" Value="1" Active="T" />
+    <link Parent="637792444400316493" Value="1" Active="T" />
+    <link Parent="637792444403645150" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444406132675" Value="1" Active="T" />
+    <link Parent="637792444408739670" Value="1" Active="T" />
+    <link Parent="637792444409199329" Value="1" Active="T" />
+    <link Parent="637792444409559255" Value="1" Active="T" />
+    <link Parent="637792444411182406" Value="1" Active="T" />
+    <link Parent="637792444419550695" Value="1" Active="T" />
+    <link Parent="637792444420241106" Value="1" Active="T" />
+    <link Parent="637792444421104649" Value="1" Active="T" />
+    <link Parent="637792444421864668" Value="0.99" Active="T" />
+    <link Parent="637792444423255116" Value="0.33" Active="T" />
+    <link Parent="637792444423812271" Value="0.99" Active="T" />
+    <link Parent="637792444424432623" Value="0.99" Active="T" />
+    <link Parent="637792444426772446" Value="1" Active="T" />
+    <link Parent="637792444428772655" Value="1" Active="T" />
+    <link Parent="637792444429752463" Value="0.33" Active="T" />
+    <link Parent="637792444430382447" Value="0.99" Active="T" />
+    <link Parent="637792444431462471" Value="1" Active="T" />
+    <link Parent="637792444432372523" Value="1" Active="T" />
+    <link Parent="637792444433311573" Value="1" Active="T" />
+    <link Parent="637792444434003266" Value="0.33" Active="T" />
+    <link Parent="637792444434603707" Value="0.99" Active="T" />
+    <link Parent="637792444435479426" Value="1" Active="T" />
+  </node>
+  <node ID="637792449919226240" Title="Gantt Chart" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444398226480" Value="1" Active="T" />
+    <link Parent="637792444399946113" Value="1" Active="T" />
+    <link Parent="637792444400316493" Value="1" Active="T" />
+    <link Parent="637792444403645150" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444405790713" Value="1" Active="T" />
+    <link Parent="637792444409199329" Value="1" Active="T" />
+    <link Parent="637792444409559255" Value="1" Active="T" />
+    <link Parent="637792444410009265" Value="1" Active="T" />
+    <link Parent="637792444411802851" Value="1" Active="T" />
+    <link Parent="637792444419890706" Value="1" Active="T" />
+    <link Parent="637792444420640709" Value="1" Active="T" />
+    <link Parent="637792444421104649" Value="1" Active="T" />
+    <link Parent="637792444421864668" Value="0.66" Active="T" />
+    <link Parent="637792444422875032" Value="1" Active="T" />
+    <link Parent="637792444423255116" Value="0.33" Active="T" />
+    <link Parent="637792444423812271" Value="0.33" Active="T" />
+    <link Parent="637792444424432623" Value="0.99" Active="T" />
+    <link Parent="637792444426772446" Value="1" Active="T" />
+    <link Parent="637792444428772655" Value="1" Active="T" />
+    <link Parent="637792444429752463" Value="0.66" Active="T" />
+    <link Parent="637792444430382447" Value="0.66" Active="T" />
+    <link Parent="637792444431462471" Value="1" Active="T" />
+    <link Parent="637792444433311573" Value="1" Active="T" />
+    <link Parent="637792444434603707" Value="0.99" Active="T" />
+    <link Parent="637792444435479426" Value="1" Active="T" />
+    <link Parent="637792444436244682" Value="1" Active="T" />
+  </node>
+  <node ID="637792449919346676" Title="BPEL (2.0)" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444399416121" Value="1" Active="T" />
+    <link Parent="637792444400816183" Value="1" Active="T" />
+    <link Parent="637792444402476144" Value="1" Active="T" />
+    <link Parent="637792444403264949" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444405790713" Value="1" Active="T" />
+    <link Parent="637792444406132675" Value="1" Active="T" />
+    <link Parent="637792444406412653" Value="1" Active="T" />
+    <link Parent="637792444406752226" Value="1" Active="T" />
+    <link Parent="637792444407222160" Value="1" Active="T" />
+    <link Parent="637792444407556418" Value="1" Active="T" />
+    <link Parent="637792444408009742" Value="1" Active="T" />
+    <link Parent="637792444408379801" Value="1" Active="T" />
+    <link Parent="637792444408739670" Value="1" Active="T" />
+    <link Parent="637792444409199329" Value="1" Active="T" />
+    <link Parent="637792444409559255" Value="1" Active="T" />
+    <link Parent="637792444410009265" Value="1" Active="T" />
+    <link Parent="637792444410408905" Value="1" Active="T" />
+    <link Parent="637792444411182406" Value="1" Active="T" />
+    <link Parent="637792444411802851" Value="1" Active="T" />
+    <link Parent="637792444412262813" Value="1" Active="T" />
+    <link Parent="637792444412702786" Value="1" Active="T" />
+    <link Parent="637792444413232420" Value="1" Active="T" />
+    <link Parent="637792444414132791" Value="1" Active="T" />
+    <link Parent="637792444414830726" Value="1" Active="T" />
+    <link Parent="637792444416130700" Value="1" Active="T" />
+    <link Parent="637792444416690677" Value="1" Active="T" />
+    <link Parent="637792444417571109" Value="1" Active="T" />
+    <link Parent="637792444418001106" Value="1" Active="T" />
+    <link Parent="637792444418560711" Value="1" Active="T" />
+    <link Parent="637792444419890706" Value="1" Active="T" />
+    <link Parent="637792444420640709" Value="1" Active="T" />
+    <link Parent="637792444421575072" Value="1" Active="T" />
+    <link Parent="637792444423255116" Value="0.99" Active="T" />
+    <link Parent="637792444425052486" Value="1" Active="T" />
+    <link Parent="637792444426592450" Value="1" Active="T" />
+    <link Parent="637792444426772446" Value="1" Active="T" />
+    <link Parent="637792444427672460" Value="1" Active="T" />
+    <link Parent="637792444428772655" Value="1" Active="T" />
+    <link Parent="637792444429752463" Value="0.66" Active="T" />
+    <link Parent="637792444430382447" Value="0.99" Active="T" />
+    <link Parent="637792444431462471" Value="1" Active="T" />
+    <link Parent="637792444432372523" Value="1" Active="T" />
+    <link Parent="637792444433311573" Value="1" Active="T" />
+    <link Parent="637792444434003266" Value="0.66" Active="T" />
+    <link Parent="637792444434603707" Value="0.99" Active="T" />
+    <link Parent="637792444435479426" Value="1" Active="T" />
+    <link Parent="637792444436244682" Value="1" Active="T" />
+  </node>
+  <node ID="637792449919446598" Title="BPML" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444399416121" Value="1" Active="T" />
+    <link Parent="637792444400816183" Value="1" Active="T" />
+    <link Parent="637792444402476144" Value="1" Active="T" />
+    <link Parent="637792444403264949" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444405790713" Value="1" Active="T" />
+    <link Parent="637792444406132675" Value="1" Active="T" />
+    <link Parent="637792444407222160" Value="1" Active="T" />
+    <link Parent="637792444407556418" Value="1" Active="T" />
+    <link Parent="637792444408009742" Value="1" Active="T" />
+    <link Parent="637792444408379801" Value="1" Active="T" />
+    <link Parent="637792444409559255" Value="1" Active="T" />
+    <link Parent="637792444410408905" Value="1" Active="T" />
+    <link Parent="637792444411182406" Value="1" Active="T" />
+    <link Parent="637792444411802851" Value="1" Active="T" />
+    <link Parent="637792444412702786" Value="1" Active="T" />
+    <link Parent="637792444413232420" Value="1" Active="T" />
+    <link Parent="637792444414132791" Value="1" Active="T" />
+    <link Parent="637792444414830726" Value="1" Active="T" />
+    <link Parent="637792444416690677" Value="1" Active="T" />
+    <link Parent="637792444417571109" Value="1" Active="T" />
+    <link Parent="637792444418001106" Value="1" Active="T" />
+    <link Parent="637792444418560711" Value="1" Active="T" />
+    <link Parent="637792444419890706" Value="1" Active="T" />
+    <link Parent="637792444420640709" Value="1" Active="T" />
+    <link Parent="637792444421575072" Value="1" Active="T" />
+    <link Parent="637792444423255116" Value="0.99" Active="T" />
+    <link Parent="637792444426772446" Value="1" Active="T" />
+    <link Parent="637792444429752463" Value="0.66" Active="T" />
+    <link Parent="637792444430382447" Value="0.33" Active="T" />
+    <link Parent="637792444433311573" Value="1" Active="T" />
+    <link Parent="637792444434003266" Value="0.33" Active="T" />
+    <link Parent="637792444434603707" Value="0.33" Active="T" />
+    <link Parent="637792444435479426" Value="1" Active="T" />
+    <link Parent="637792444436244682" Value="1" Active="T" />
+  </node>
+  <node ID="637792449919536707" Title="EEML" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444398226480" Value="1" Active="T" />
+    <link Parent="637792444399004101" Value="1" Active="T" />
+    <link Parent="637792444400316493" Value="1" Active="T" />
+    <link Parent="637792444402056117" Value="1" Active="T" />
+    <link Parent="637792444402476144" Value="1" Active="T" />
+    <link Parent="637792444403645150" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444405790713" Value="1" Active="T" />
+    <link Parent="637792444406132675" Value="1" Active="T" />
+    <link Parent="637792444407222160" Value="1" Active="T" />
+    <link Parent="637792444407556418" Value="1" Active="T" />
+    <link Parent="637792444408009742" Value="1" Active="T" />
+    <link Parent="637792444408379801" Value="1" Active="T" />
+    <link Parent="637792444408739670" Value="1" Active="T" />
+    <link Parent="637792444409199329" Value="1" Active="T" />
+    <link Parent="637792444409559255" Value="1" Active="T" />
+    <link Parent="637792444410752360" Value="1" Active="T" />
+    <link Parent="637792444411802851" Value="1" Active="T" />
+    <link Parent="637792444418560711" Value="1" Active="T" />
+    <link Parent="637792444419550695" Value="1" Active="T" />
+    <link Parent="637792444419890706" Value="1" Active="T" />
+    <link Parent="637792444420241106" Value="1" Active="T" />
+    <link Parent="637792444421575072" Value="1" Active="T" />
+    <link Parent="637792444421864668" Value="0.99" Active="T" />
+    <link Parent="637792444423255116" Value="0.99" Active="T" />
+    <link Parent="637792444423812271" Value="0.33" Active="T" />
+    <link Parent="637792444424432623" Value="0.66" Active="T" />
+    <link Parent="637792444426772446" Value="1" Active="T" />
+    <link Parent="637792444434603707" Value="0.33" Active="T" />
+  </node>
+  <node ID="637792449919636672" Title="ER/ERD" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444398226480" Value="1" Active="T" />
+    <link Parent="637792444401486130" Value="1" Active="T" />
+    <link Parent="637792444403264949" Value="1" Active="T" />
+    <link Parent="637792444404197072" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444409199329" Value="1" Active="T" />
+    <link Parent="637792444419550695" Value="1" Active="T" />
+    <link Parent="637792444420241106" Value="1" Active="T" />
+    <link Parent="637792444421575072" Value="1" Active="T" />
+    <link Parent="637792444423255116" Value="0.99" Active="T" />
+    <link Parent="637792444427672460" Value="1" Active="T" />
+    <link Parent="637792444428772655" Value="1" Active="T" />
+    <link Parent="637792444429752463" Value="0.33" Active="T" />
+    <link Parent="637792444430382447" Value="0.99" Active="T" />
+    <link Parent="637792444431462471" Value="1" Active="T" />
+    <link Parent="637792444432372523" Value="1" Active="T" />
+    <link Parent="637792444433311573" Value="1" Active="T" />
+    <link Parent="637792444434003266" Value="0.33" Active="T" />
+    <link Parent="637792444434603707" Value="0.99" Active="T" />
+    <link Parent="637792444435479426" Value="1" Active="T" />
+    <link Parent="637792444436244682" Value="1" Active="T" />
+  </node>
+  <node ID="637792449919726560" Title="UML Sequence Diagram" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444398226480" Value="1" Active="T" />
+    <link Parent="637792444400816183" Value="1" Active="T" />
+    <link Parent="637792444403645150" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444405790713" Value="1" Active="T" />
+    <link Parent="637792444406132675" Value="1" Active="T" />
+    <link Parent="637792444406412653" Value="1" Active="T" />
+    <link Parent="637792444407222160" Value="1" Active="T" />
+    <link Parent="637792444407556418" Value="1" Active="T" />
+    <link Parent="637792444409199329" Value="1" Active="T" />
+    <link Parent="637792444409559255" Value="1" Active="T" />
+    <link Parent="637792444411182406" Value="1" Active="T" />
+    <link Parent="637792444411802851" Value="1" Active="T" />
+    <link Parent="637792444413232420" Value="1" Active="T" />
+    <link Parent="637792444414132791" Value="1" Active="T" />
+    <link Parent="637792444415200737" Value="1" Active="T" />
+    <link Parent="637792444416130700" Value="1" Active="T" />
+    <link Parent="637792444419890706" Value="1" Active="T" />
+    <link Parent="637792444420640709" Value="1" Active="T" />
+    <link Parent="637792444421575072" Value="1" Active="T" />
+    <link Parent="637792444421864668" Value="0.99" Active="T" />
+    <link Parent="637792444423255116" Value="0.33" Active="T" />
+    <link Parent="637792444423812271" Value="0.33" Active="T" />
+    <link Parent="637792444424432623" Value="0.66" Active="T" />
+    <link Parent="637792444425052486" Value="1" Active="T" />
+    <link Parent="637792444425732451" Value="1" Active="T" />
+    <link Parent="637792444426592450" Value="1" Active="T" />
+    <link Parent="637792444426772446" Value="1" Active="T" />
+    <link Parent="637792444427672460" Value="1" Active="T" />
+    <link Parent="637792444428772655" Value="1" Active="T" />
+    <link Parent="637792444429752463" Value="0.66" Active="T" />
+    <link Parent="637792444430382447" Value="0.99" Active="T" />
+    <link Parent="637792444431462471" Value="1" Active="T" />
+    <link Parent="637792444432372523" Value="1" Active="T" />
+    <link Parent="637792444433311573" Value="1" Active="T" />
+    <link Parent="637792444434003266" Value="0.66" Active="T" />
+    <link Parent="637792444434603707" Value="0.99" Active="T" />
+    <link Parent="637792444435479426" Value="1" Active="T" />
+    <link Parent="637792444436244682" Value="1" Active="T" />
+  </node>
+  <node ID="637792449919846691" Title="UML Communication Diagram" DataType="Description" Level="Alternative" Description="(----------New Alternative--------)" Req="N" Order="NULL" UpperLevel="NULL" Criterion="None" Keywords="NULL">
+    <link Parent="637792444398226480" Value="1" Active="T" />
+    <link Parent="637792444400816183" Value="1" Active="T" />
+    <link Parent="637792444403645150" Value="1" Active="T" />
+    <link Parent="637792444404937807" Value="1" Active="T" />
+    <link Parent="637792444406132675" Value="1" Active="T" />
+    <link Parent="637792444409199329" Value="1" Active="T" />
+    <link Parent="637792444413232420" Value="1" Active="T" />
+    <link Parent="637792444414132791" Value="1" Active="T" />
+    <link Parent="637792444415200737" Value="1" Active="T" />
+    <link Parent="637792444416130700" Value="1" Active="T" />
+    <link Parent="637792444419550695" Value="1" Active="T" />
+    <link Parent="637792444420640709" Value="1" Active="T" />
+    <link Parent="637792444421104649" Value="1" Active="T" />
+    <link Parent="637792444421864668" Value="0.33" Active="T" />
+    <link Parent="637792444423255116" Value="0.66" Active="T" />
+    <link Parent="637792444423812271" Value="0.99" Active="T" />
+    <link Parent="637792444424432623" Value="0.33" Active="T" />
+    <link Parent="637792444425052486" Value="1" Active="T" />
+    <link Parent="637792444425732451" Value="1" Active="T" />
+    <link Parent="637792444426592450" Value="1" Active="T" />
+    <link Parent="637792444426772446" Value="1" Active="T" />
+    <link Parent="637792444427672460" Value="1" Active="T" />
+    <link Parent="637792444428772655" Value="1" Active="T" />
+    <link Parent="637792444429752463" Value="0.66" Active="T" />
+    <link Parent="637792444430382447" Value="0.66" Active="T" />
+    <link Parent="637792444431462471" Value="1" Active="T" />
+    <link Parent="637792444433311573" Value="1" Active="T" />
+    <link Parent="637792444434003266" Value="0.66" Active="T" />
+    <link Parent="637792444434603707" Value="0.99" Active="T" />
+    <link Parent="637792444435479426" Value="1" Active="T" />
+    <link Parent="637792444436244682" Value="1" Active="T" />
+  </node>
+</DecisionTree>

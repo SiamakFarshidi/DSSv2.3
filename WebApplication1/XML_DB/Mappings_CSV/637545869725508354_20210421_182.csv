@@ -1,0 +1,81 @@
+[DataType],DataType
+Political decentralization?,Boolean
+Logical decentralization,Boolean
+Direct DAO Governance,Boolean
+Representative DAO Governance,Boolean
+Liquid DAO Governance,Boolean
+Quadratic voting,Boolean
+Conviction voting,Boolean
+Reputation-based voting,Boolean
+Token-weighted Voting,Boolean
+Token-based voting,Boolean
+TCR Based Voting,Boolean
+Delegable Voting,Boolean
+Lazy consensus,Boolean
+On-Chain Resources,Boolean
+Upgradeable contract,Boolean
+Off-Chain Resources,Boolean
+Natural person,Boolean
+Legal Entity,Boolean
+Smart contracts,Boolean
+Arbitrary transactions,Boolean
+Rage Quit,Boolean
+Shared Resource,Boolean
+Funds,Boolean
+Physical Asset,Boolean
+Registry,Boolean
+Intellectual Property,Boolean
+Proposals,Boolean
+Research & Development,Boolean
+Service contracts,Boolean
+Professional services,Boolean
+Content or registry curation,Boolean
+Reputation,Boolean
+Meetups,Boolean
+Reward-for-work proposals,Boolean
+Structure-changing proposals,Boolean
+Funding Queues,Boolean
+Manual Reputation Flow,Boolean
+Automatic Reputation Flow,Boolean
+Token distribution,Boolean
+Funds allocation,Boolean
+Reputation assignment,Boolean
+Collective data curation,Boolean
+External activity,Boolean
+Governance upgrade,Boolean
+Inflation Funding,Boolean
+Security Token Offering (STO),Boolean
+Utility Token Offering (UTO),Boolean
+Initial coin Offering (ICO),Boolean
+Revenue Sharing,Boolean
+Budget Box,Boolean
+On-chain,Boolean
+Off-chain,Boolean
+Linked discretionary,Boolean
+Authorization (Voting Right),Boolean
+Membership management,Boolean
+Authentication/Identification,Boolean
+Permissionless,Boolean
+Legally proper KYC,Boolean
+Independent Platform,Boolean
+Extension,Boolean
+Onchain tools,Boolean
+Offchain tools,Boolean
+Extensibility,Boolean
+Transparency portal,Boolean
+Legal framework,Boolean
+Domains,Boolean
+Recovery,Boolean
+Multiple payment types,Boolean
+Analytics Dashboard,Boolean
+IPFS,Boolean
+Storj,Boolean
+Ethereum Swarm,Boolean
+Ethereum,Boolean
+RSK,Boolean
+xDai,Boolean
+Popularity ,Numeric
+Maturity level,Numeric
+Developer Resources (People),Numeric
+Upgradability,Numeric
+Scalability,Numeric
